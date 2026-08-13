@@ -1,0 +1,855 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vivus",
+          "description": "Library to make drawing animation on SVG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-06T22:16:59Z",
+            "owner": "maxwellito",
+            "repo": "vivus",
+            "stars": 15483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snap.svg",
+          "description": "The JavaScript library for modern SVG graphics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-12T11:43:39Z",
+            "owner": "adobe-webplatform",
+            "repo": "Snap.svg",
+            "stars": 14012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svg.js",
+          "description": "The lightweight library for manipulating and animating SVG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T07:48:43Z",
+            "owner": "svgdotjs",
+            "repo": "svg.js",
+            "stars": 11817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raphael",
+          "description": "JavaScript Vector Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-12T12:51:17Z",
+            "owner": "DmitryBaranovskiy",
+            "repo": "raphael",
+            "stars": 11273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Walkway",
+          "description": "An easy way to animate SVG elements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-13T19:58:44Z",
+            "owner": "ConnorAtherton",
+            "repo": "walkway",
+            "stars": 4346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bonsai",
+          "description": "BonsaiJS is a graphics library and renderer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-18T22:54:13Z",
+            "owner": "uxebu",
+            "repo": "bonsai",
+            "stars": 1961
+          }
+        }
+      ],
+      "title": "SVG"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anime.js",
+          "description": "JavaScript animation engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T16:40:09Z",
+            "owner": "juliangarnier",
+            "repo": "anime",
+            "stars": 72110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GSAP",
+          "description": "JavaScript animation library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-13T13:08:58Z",
+            "owner": "greensock",
+            "repo": "GSAP",
+            "stars": 27656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mojs",
+          "description": "The motion graphics toolbelt for the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2026-07-30T16:54:33Z",
+            "owner": "mojs",
+            "repo": "mojs",
+            "stars": 18752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Velocity",
+          "description": "Accelerated JavaScript animation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-24T07:45:51Z",
+            "owner": "julianshapiro",
+            "repo": "velocity",
+            "stars": 17203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Progressbar.js",
+          "description": "Responsive and slick progress bars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-02T10:38:42Z",
+            "owner": "kimmobrunfeldt",
+            "repo": "progressbar.js",
+            "stars": 7854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animateplus",
+          "description": "A+ animation module for the modern web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-10T07:56:42Z",
+            "owner": "bendc",
+            "repo": "animateplus",
+            "stars": 5946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Move.js",
+          "description": "CSS3 backed JavaScript animation framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-11T00:13:54Z",
+            "owner": "visionmedia",
+            "repo": "move.js",
+            "stars": 4694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TweenJS",
+          "description": "A simple but powerful tweening / animation library for JavaScript. Part of the CreateJS suite of libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-18T07:44:25Z",
+            "owner": "CreateJS",
+            "repo": "TweenJS",
+            "stars": 3547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animo.js",
+          "description": "A powerful little tool for managing CSS animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-04-05T21:24:37Z",
+            "owner": "ThrivingKings",
+            "repo": "animo.js",
+            "stars": 2090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bezier easing",
+          "description": "Cubic-bezier implementation for your JavaScript animation easings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T08:58:28Z",
+            "owner": "gre",
+            "repo": "bezier-easing",
+            "stars": 1776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animatic",
+          "description": "CSS animations engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-31T18:54:51Z",
+            "owner": "lvivski",
+            "repo": "animatic",
+            "stars": 1383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haiku Core",
+          "description": "Interactive UI animation engine for the Web. Core renderer for Haiku Animator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-25T21:04:33Z",
+            "owner": "HaikuTeam",
+            "repo": "core",
+            "stars": 766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Between.js",
+          "description": "Lightweight JavaScript (ES6) tweening engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-24T15:40:48Z",
+            "owner": "sasha240100",
+            "repo": "between.js",
+            "stars": 707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glsl easings",
+          "description": "Easing functions in GLSL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-18T17:41:54Z",
+            "owner": "glslify",
+            "repo": "glsl-easings",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Just Animate",
+          "description": "Making Animation Simple.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-03-26T22:04:35Z",
+            "owner": "just-animate",
+            "repo": "just-animate",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ES6-tween",
+          "description": "ES6 version of tween.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-27T06:15:10Z",
+            "owner": "tweenjs",
+            "repo": "es6-tween",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weeee.js",
+          "description": "Tiny Javascript tweening engine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-06-16T15:40:22Z",
+            "owner": "sfi0zy",
+            "repo": "weeee",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Common"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Animate.css",
+          "description": "A cross-browser library of CSS animations. As easy to use as an easy thing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-07-29T19:34:21Z",
+            "owner": "animate-css",
+            "repo": "animate.css",
+            "stars": 82743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpinKit",
+          "description": "A collection of loading indicators animated with CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2020-08-01T09:04:59Z",
+            "owner": "tobiasahlin",
+            "repo": "SpinKit",
+            "stars": 19336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magic",
+          "description": "CSS3 Animations with special effects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2022-08-23T21:08:20Z",
+            "owner": "miniMAC",
+            "repo": "magic",
+            "stars": 8602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Css-loaders",
+          "description": "A collection of loading spinners animated with CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-02-21T15:13:22Z",
+            "owner": "lukehaas",
+            "repo": "css-loaders",
+            "stars": 7056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bounce.js",
+          "description": "Create beautiful CSS3 powered animations in no time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2020-09-03T08:17:21Z",
+            "owner": "tictail",
+            "repo": "bounce.js",
+            "stars": 6161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Motion-ui",
+          "description": "The powerful Sass library for creating CSS transitions and animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2024-09-26T21:51:12Z",
+            "owner": "foundation",
+            "repo": "motion-ui",
+            "stars": 1167
+          }
+        }
+      ],
+      "title": "CSS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fabric.js",
+          "description": "JavaScript canvas library with animation support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T14:05:42Z",
+            "owner": "fabricjs",
+            "repo": "fabric.js",
+            "stars": 31381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paper.js",
+          "description": "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-23T00:58:54Z",
+            "owner": "paperjs",
+            "repo": "paper.js",
+            "stars": 15064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Konva",
+          "description": "Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T17:00:38Z",
+            "owner": "konvajs",
+            "repo": "konva",
+            "stars": 14675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsParticles",
+          "description": "tsParticles is a lightweight typescript/javascript library for creating easily particles animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:22:53Z",
+            "owner": "tsparticles",
+            "repo": "tsparticles",
+            "stars": 8949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Two.js",
+          "description": "A renderer agnostic two-dimensional drawing api for the web with animation support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T18:19:54Z",
+            "owner": "jonobr1",
+            "repo": "two.js",
+            "stars": 8647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EaselJS",
+          "description": "EaselJS is a library for building high-performance interactive 2D content in HTML5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-24T17:25:05Z",
+            "owner": "CreateJS",
+            "repo": "EaselJS",
+            "stars": 8162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pts.js",
+          "description": "Pts is a typescript/javascript library for visualization and creative-coding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T08:57:45Z",
+            "owner": "williamngan",
+            "repo": "pts",
+            "stars": 5339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hover-effect",
+          "description": "JavaScript library to draw and animate images on hover.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-06-27T00:32:24Z",
+            "owner": "robin-dela",
+            "repo": "hover-effect",
+            "stars": 1878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Curtainsjs",
+          "description": "Lightweight vanilla WebGL JavaScript library that turns HTML DOM elements into interactive textured planes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-03T08:29:16Z",
+            "owner": "martinlaxenaire",
+            "repo": "curtainsjs",
+            "stars": 1824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ocanvas",
+          "description": "JavaScript library for object-based canvas drawing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-24T16:20:08Z",
+            "owner": "koggdal",
+            "repo": "ocanvas",
+            "stars": 491
+          }
+        }
+      ],
+      "title": "Canvas"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AOS",
+          "description": "Animate on scroll library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-26T15:58:43Z",
+            "owner": "michalsnik",
+            "repo": "aos",
+            "stars": 28065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scrollreveal",
+          "description": "Animate elements as they scroll into view.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-05T17:55:48Z",
+            "owner": "jlmakes",
+            "repo": "scrollreveal",
+            "stars": 22473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScrollMagic",
+          "description": "The JavaScript library for magical scroll interactions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T09:26:15Z",
+            "owner": "janpaepke",
+            "repo": "ScrollMagic",
+            "stars": 14953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laxxx",
+          "description": "Simple & light weight (3kb minified & zipped) vanilla JavaScript plugin to create smooth & beautiful animations when you scrolllll!",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-05-21T06:07:55Z",
+            "owner": "alexfoxy",
+            "repo": "lax.js",
+            "stars": 10479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wow",
+          "description": "Reveal CSS animation as you scroll down a page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-24T02:08:52Z",
+            "owner": "mattdelacdev",
+            "repo": "WOW",
+            "stars": 9897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sal",
+          "description": "Performance focused, lightweight scroll animation library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-01-07T04:11:22Z",
+            "owner": "mciastek",
+            "repo": "sal",
+            "stars": 3694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Motus",
+          "description": "Animation library that mimics CSS keyframes when scrolling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-08T14:09:46Z",
+            "owner": "alexcambose",
+            "repo": "motus",
+            "stars": 622
+          }
+        }
+      ],
+      "title": "Animate on scroll"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Typed.js",
+          "description": "A JavaScript Typing Animation Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-25T21:28:00Z",
+            "owner": "mattboldt",
+            "repo": "typed.js",
+            "stars": 16286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blotter",
+          "description": "A JavaScript API for drawing unconventional text effects on the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-28T12:49:10Z",
+            "owner": "bradley",
+            "repo": "Blotter",
+            "stars": 3077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malarkey",
+          "description": "Simulate a typewriter effect in vanilla JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-01-30T07:40:51Z",
+            "owner": "yuanqing",
+            "repo": "malarkey",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shuffle-text",
+          "description": "Shuffle-text is JavaScript text effect library such as cool legacy of Flash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-09T07:35:33Z",
+            "owner": "ics-ikeda",
+            "repo": "shuffle-text",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typebot",
+          "description": "JavaScript library for typing animation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2016-08-10T01:30:20Z",
+            "owner": "akzhy",
+            "repo": "typebot",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Text"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Motion",
+          "description": "Open source, production-ready animation and gesture library for React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T13:25:30Z",
+            "owner": "motiondivision",
+            "repo": "motion",
+            "stars": 33215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SVGR",
+          "description": "Transform SVGs into React components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-01T18:35:20Z",
+            "owner": "gregberge",
+            "repo": "svgr",
+            "stars": 11049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React tsParticles",
+          "description": "ReactJS wrapper for tsParticles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:22:53Z",
+            "owner": "tsparticles",
+            "repo": "tsparticles",
+            "stars": 8949
+          }
+        }
+      ],
+      "title": "React"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "SVG is extremely powerful, with its reduced HTTP requests and crispness on any display. It becomes increasingly more interesting as you explore its capabilities for responsive animation and performance boons. When you animate SVG, you must be aware of normal image traits like composition, color, implementation, and optimization. But when you animate, it increases the complexity of each of these factors exponentially.",
+      "items": [],
+      "title": "SVG animation"
+    },
+    {
+      "description": "Thanks to faster browsers, better web standards support, and more powerful devices, the web now defines the next generation of user interfaces that are fun, practical, fluid, and memorable. The key? Animation. But learning how to create animations is hard, and existing learning material doesnt explain the context of the UI problem that animations are trying to solve. Thats where this book comes in.",
+      "items": [],
+      "title": "Creating Web Animations: Bringing Your UIs to Life"
+    },
+    {
+      "description": "Add life and depth to your web applications and improve user experience through the discrete use of CSS transitions and animations. With this concise guide, you'll learn how to make page elements move or change in appearance, whether you want to realistically bounce a ball, gradually expand a drop-down menu, or simply bring attention to an element when users hover over it.",
+      "items": [],
+      "title": "Transitions and Animations in CSS: Adding Motion with CSS"
+    },
+    {
+      "description": "Effective interface animation deftly combines form and function to improve feedback, aid in orientation, direct attention, show causality, and express your brands personality. Designing Interface Animation shows you how to create web animation that balances purpose and style while blending seamlessly into the users experience. This book is a crash course in motion design theory and practice for web designers, UX professionals, and front-end developers alike.",
+      "items": [],
+      "title": "Designing Interface Animation: Meaningful Motion for User Experience"
+    },
+    {
+      "description": "We've come a long way since the days of flashing banner ads and scrolling news tickers. Today, the stunning motion design of iOS and Android dramatically improves a users experience — instead of detracting from it. The best sites and apps of today leverage animation to improve the feel and intuitiveness of their interfaces. Sites without animation are starting to feel antiquated. This book provides you with a technical foundation to implement animation in a way thats both visually stunning and programmatically maintainable.",
+      "items": [],
+      "title": "Web Animation using JavaScript: Develop & Design"
+    },
+    {
+      "description": "Modern websites use a variety of animated effects not only to improve usability but also to delight and surprise users. Some of these effects require complex scripting or programming skills, but many are within the grasp of designers who are already familiar with CSS and HTML. CSS Animations and Transitions for the Modern Web shows designers how to add movement to web pages over time using CSS3 style definitions.",
+      "items": [],
+      "title": "CSS Animations and Transitions for the Modern Web"
+    },
+    {
+      "description": "This book will help you create practical / usable / wickedly-cool animations in HTML, CSS, and JavaScript. Each chapter is filled with cleanly explained concepts, beautifully illustrated diagrams, colorific code snippets, and cringeworthy one-liners guaranteed to make your friend who laughs at everything groan. You will start by learning how to create animations and transitions in CSS. Towards the end, you will learn how to create animations in JavaScript by manipulating DOM elements as well as pushing pixels on the canvas.",
+      "items": [],
+      "title": "Animation in HTML, CSS, and JavaScript"
+    },
+    {
+      "description": "Foundation HTML5 Animation with JavaScript covers everything that you need to know to create dynamic scripted animation using the HTML5 canvas. It provides information on all the relevant math you'll need, before moving on to physics concepts like acceleration, velocity, easing, springs, collision detection, conservation of momentum, 3D, and forward and inverse kinematics. Foundation HTML5 Animation with JavaScript is a fantastic resource for all web developers working in HTML5 or switching over from Flash to create standards-compliant games, applications, and animations that will work across all modern browsers and most mobile devices, including iPhones, iPads, and Android devices.",
+      "items": [],
+      "title": "Foundation HTML5 Animation with JavaScript"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:17:36.783Z",
+    "original_repository": "sergey-pimenov/awesome-web-animation",
+    "original_repository_sha": "2f3d02a7400d653e3b6e152adeeb99d215ff5d56",
+    "enhanced_repository": "enhansome/enhansome-web-animation",
+    "enhanced_repository_description": null,
+    "title": "Awesome Web Animation with stars"
+  }
+}
