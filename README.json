@@ -28,7 +28,7 @@
             "last_commit": "2026-06-12T11:43:39Z",
             "owner": "adobe-webplatform",
             "repo": "Snap.svg",
-            "stars": 14013
+            "stars": 14012
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-04T07:48:43Z",
             "owner": "svgdotjs",
             "repo": "svg.js",
-            "stars": 11819
+            "stars": 11820
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-08-09T16:40:09Z",
             "owner": "juliangarnier",
             "repo": "anime",
-            "stars": 72165
+            "stars": 72184
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-04-13T13:08:58Z",
             "owner": "greensock",
             "repo": "GSAP",
-            "stars": 27706
+            "stars": 27745
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2022-03-11T00:13:54Z",
             "owner": "visionmedia",
             "repo": "move.js",
-            "stars": 4694
+            "stars": 4693
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2024-07-29T19:34:21Z",
             "owner": "animate-css",
             "repo": "animate.css",
-            "stars": 82744
+            "stars": 82745
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2020-08-01T09:04:59Z",
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19336
+            "stars": 19334
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2026-08-08T14:05:42Z",
             "owner": "fabricjs",
             "repo": "fabric.js",
-            "stars": 31385
+            "stars": 31386
           }
         },
         {
@@ -463,10 +463,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T01:06:36Z",
+            "last_commit": "2026-08-15T13:55:20Z",
             "owner": "konvajs",
             "repo": "konva",
-            "stars": 14683
+            "stars": 14686
           }
         },
         {
@@ -480,7 +480,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8954
           }
         },
         {
@@ -519,10 +519,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T09:07:48Z",
+            "last_commit": "2026-08-15T18:54:28Z",
             "owner": "williamngan",
             "repo": "pts",
-            "stars": 5339
+            "stars": 5340
           }
         },
         {
@@ -536,7 +536,7 @@
             "last_commit": "2023-06-27T00:32:24Z",
             "owner": "robin-dela",
             "repo": "hover-effect",
-            "stars": 1878
+            "stars": 1879
           }
         },
         {
@@ -584,7 +584,7 @@
             "last_commit": "2024-03-26T15:58:43Z",
             "owner": "michalsnik",
             "repo": "aos",
-            "stars": 28063
+            "stars": 28061
           }
         },
         {
@@ -598,7 +598,7 @@
             "last_commit": "2024-04-05T17:55:48Z",
             "owner": "jlmakes",
             "repo": "scrollreveal",
-            "stars": 22470
+            "stars": 22471
           }
         },
         {
@@ -688,7 +688,7 @@
             "last_commit": "2026-01-25T21:28:00Z",
             "owner": "mattboldt",
             "repo": "typed.js",
-            "stars": 16284
+            "stars": 16285
           }
         },
         {
@@ -764,7 +764,7 @@
             "last_commit": "2026-08-10T13:25:30Z",
             "owner": "motiondivision",
             "repo": "motion",
-            "stars": 33244
+            "stars": 33255
           }
         },
         {
@@ -792,7 +792,7 @@
             "last_commit": "2026-08-13T07:05:44Z",
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8953
+            "stars": 8954
           }
         }
       ],
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T06:59:21.757Z",
+    "last_updated": "2026-08-16T07:01:18.138Z",
     "original_repository": "sergey-pimenov/awesome-web-animation",
     "original_repository_sha": "2f3d02a7400d653e3b6e152adeeb99d215ff5d56",
     "enhanced_repository": "enhansome/enhansome-web-animation",
