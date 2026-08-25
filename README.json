@@ -111,7 +111,7 @@
             "last_commit": "2026-08-21T21:29:50Z",
             "owner": "juliangarnier",
             "repo": "anime",
-            "stars": 72389
+            "stars": 72391
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-04-13T13:08:58Z",
             "owner": "greensock",
             "repo": "GSAP",
-            "stars": 27969
+            "stars": 27971
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-08-20T14:05:37Z",
             "owner": "konvajs",
             "repo": "konva",
-            "stars": 14720
+            "stars": 14721
           }
         },
         {
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:01:08.770Z",
+    "last_updated": "2026-08-25T07:10:27.018Z",
     "original_repository": "sergey-pimenov/awesome-web-animation",
     "original_repository_id": 89600573,
     "original_repository_sha": "2f3d02a7400d653e3b6e152adeeb99d215ff5d56",
