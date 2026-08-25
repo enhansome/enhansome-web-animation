@@ -111,7 +111,7 @@
             "last_commit": "2026-08-21T21:29:50Z",
             "owner": "juliangarnier",
             "repo": "anime",
-            "stars": 72378
+            "stars": 72389
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-04-13T13:08:58Z",
             "owner": "greensock",
             "repo": "GSAP",
-            "stars": 27959
+            "stars": 27969
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2020-08-01T09:04:59Z",
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19331
+            "stars": 19333
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2026-08-18T17:25:50Z",
             "owner": "fabricjs",
             "repo": "fabric.js",
-            "stars": 31408
+            "stars": 31407
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2024-07-23T00:58:54Z",
             "owner": "paperjs",
             "repo": "paper.js",
-            "stars": 15065
+            "stars": 15066
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-08-20T14:05:37Z",
             "owner": "konvajs",
             "repo": "konva",
-            "stars": 14714
+            "stars": 14720
           }
         },
         {
@@ -525,10 +525,10 @@
             "archived": false,
             "id": 5694937,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T03:28:43Z",
+            "last_commit": "2026-08-24T17:35:16Z",
             "owner": "jonobr1",
             "repo": "two.js",
-            "stars": 8650
+            "stars": 8651
           }
         },
         {
@@ -624,7 +624,7 @@
             "last_commit": "2024-03-26T15:58:43Z",
             "owner": "michalsnik",
             "repo": "aos",
-            "stars": 28058
+            "stars": 28057
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2024-04-05T17:55:48Z",
             "owner": "jlmakes",
             "repo": "scrollreveal",
-            "stars": 22470
+            "stars": 22471
           }
         },
         {
@@ -816,7 +816,7 @@
             "last_commit": "2026-08-20T09:50:40Z",
             "owner": "motiondivision",
             "repo": "motion",
-            "stars": 33343
+            "stars": 33350
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2026-03-01T18:35:20Z",
             "owner": "gregberge",
             "repo": "svgr",
-            "stars": 11053
+            "stars": 11054
           }
         },
         {
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:08:43.898Z",
+    "last_updated": "2026-08-25T06:01:08.770Z",
     "original_repository": "sergey-pimenov/awesome-web-animation",
     "original_repository_id": 89600573,
     "original_repository_sha": "2f3d02a7400d653e3b6e152adeeb99d215ff5d56",
