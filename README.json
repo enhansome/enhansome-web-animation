@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript library to make drawing animation on SVG",
+            "homepage": null,
             "id": 19757917,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-07-06T22:16:59Z",
+            "open_issues": 22,
             "owner": "maxwellito",
             "repo": "vivus",
-            "stars": 15485
+            "stars": 15484,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -26,12 +31,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The JavaScript library for modern SVG graphics.",
+            "homepage": "http://snapsvg.io",
             "id": 12143585,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-12T11:43:39Z",
+            "open_issues": 267,
             "owner": "adobe-webplatform",
             "repo": "Snap.svg",
-            "stars": 14006
+            "stars": 14006,
+            "topics": [
+              "javascript",
+              "javascript-library",
+              "snap",
+              "svg",
+              "svg-animations"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -42,12 +58,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The lightweight library for manipulating and animating SVG",
+            "homepage": "https://svgjs.dev",
             "id": 7178155,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-04T07:48:43Z",
+            "open_issues": 0,
             "owner": "svgdotjs",
             "repo": "svg.js",
-            "stars": 11822
+            "stars": 11822,
+            "topics": [
+              "animation",
+              "javascript",
+              "svg",
+              "svgjs"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -58,12 +84,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript Vector Library",
+            "homepage": "https://dmitrybaranovskiy.github.io/raphael/",
             "id": 48296,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-12T12:51:17Z",
+            "open_issues": 347,
             "owner": "DmitryBaranovskiy",
             "repo": "raphael",
-            "stars": 11271
+            "stars": 11271,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -74,12 +105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easy way to animate SVG elements.",
+            "homepage": "http://connoratherton.com/walkway",
             "id": 22932849,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-03-13T19:58:44Z",
+            "open_issues": 4,
             "owner": "ConnorAtherton",
             "repo": "walkway",
-            "stars": 4347
+            "stars": 4347,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -90,12 +126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BonsaiJS is a graphics library and renderer",
+            "homepage": "http://bonsaijs.org",
             "id": 4808664,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-12-18T22:54:13Z",
+            "open_issues": 93,
             "owner": "uxebu",
             "repo": "bonsai",
-            "stars": 1962
+            "stars": 1962,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         }
@@ -112,12 +153,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript animation engine",
+            "homepage": "https://animejs.com",
             "id": 53809090,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T21:29:50Z",
+            "open_issues": 115,
             "owner": "juliangarnier",
             "repo": "anime",
-            "stars": 72490
+            "stars": 72493,
+            "topics": [
+              "animation",
+              "anime",
+              "canvas",
+              "css",
+              "javascript",
+              "javascript-library",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -128,12 +182,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web",
+            "homepage": "https://gsap.com",
             "id": 5905330,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-04-13T13:08:58Z",
+            "open_issues": 5,
             "owner": "greensock",
             "repo": "GSAP",
-            "stars": 28070
+            "stars": 28073,
+            "topics": [
+              "animation",
+              "gsap",
+              "javascript",
+              "javascript-library",
+              "scroll"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -144,12 +209,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The motion graphics toolbelt for the web",
+            "homepage": "https://mojs.github.io",
             "id": 21234201,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2026-07-30T16:54:33Z",
+            "open_issues": 37,
             "owner": "mojs",
             "repo": "mojs",
-            "stars": 18757
+            "stars": 18758,
+            "topics": [
+              "animation",
+              "burst",
+              "design",
+              "es6",
+              "graphics",
+              "javascript",
+              "library",
+              "mo-js",
+              "modern",
+              "mojs",
+              "motion",
+              "motion-graphics",
+              "shape",
+              "svg",
+              "swirl",
+              "timeline",
+              "toolbelt",
+              "web",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -160,12 +250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Accelerated JavaScript animation.",
+            "homepage": "VelocityJS.org",
             "id": 18611173,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-10-24T07:45:51Z",
+            "open_issues": 40,
             "owner": "julianshapiro",
             "repo": "velocity",
-            "stars": 17201
+            "stars": 17200,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -176,12 +271,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Responsive and slick progress bars ",
+            "homepage": "https://kimmobrunfeldt.github.io/progressbar.js",
             "id": 24306221,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-02T10:38:42Z",
+            "open_issues": 69,
             "owner": "kimmobrunfeldt",
             "repo": "progressbar.js",
-            "stars": 7855
+            "stars": 7855,
+            "topics": [
+              "animation",
+              "javascript",
+              "progressbar"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -192,12 +296,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A+ animation module for the modern web",
+            "homepage": null,
             "id": 35506729,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-07-10T07:56:42Z",
+            "open_issues": 0,
             "owner": "bendc",
             "repo": "animateplus",
-            "stars": 5948
+            "stars": 5948,
+            "topics": [
+              "animation",
+              "css",
+              "design",
+              "javascript",
+              "motion",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -208,12 +324,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS3 backed JavaScript animation framework",
+            "homepage": "http://visionmedia.github.com/move.js/",
             "id": 1786438,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-03-11T00:13:54Z",
+            "open_issues": 36,
             "owner": "visionmedia",
             "repo": "move.js",
-            "stars": 4692
+            "stars": 4692,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -224,12 +345,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.",
+            "homepage": "http://createjs.com/",
             "id": 1501185,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-12-18T07:44:25Z",
+            "open_issues": 12,
             "owner": "CreateJS",
             "repo": "TweenJS",
-            "stars": 3543
+            "stars": 3543,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -240,12 +366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful little tool for managing CSS animations",
+            "homepage": null,
             "id": 12434576,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2017-04-05T21:24:37Z",
+            "open_issues": 7,
             "owner": "ThrivingKings",
             "repo": "animo.js",
-            "stars": 2087
+            "stars": 2086,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -256,12 +387,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cubic-bezier implementation for your JavaScript animation easings – MIT License",
+            "homepage": "http://greweb.me/bezier-easing-editor/example/",
             "id": 15289182,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-02T08:58:28Z",
+            "open_issues": 0,
             "owner": "gre",
             "repo": "bezier-easing",
-            "stars": 1776
+            "stars": 1776,
+            "topics": [
+              "animation",
+              "bezier",
+              "cubic-bezier",
+              "easing"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -272,12 +413,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS animations engine",
+            "homepage": "http://lvivski.com/animatic/",
             "id": 8101018,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-31T18:54:51Z",
+            "open_issues": 6,
             "owner": "lvivski",
             "repo": "animatic",
-            "stars": 1383
+            "stars": 1383,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -288,12 +434,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rice: Interactive UI animation engine for the Web.  Core renderer for Haiku Animator.",
+            "homepage": "https://www.haikuforteams.com",
             "id": 119432848,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-25T21:04:33Z",
+            "open_issues": 9,
             "owner": "HaikuTeam",
             "repo": "core",
-            "stars": 766
+            "stars": 766,
+            "topics": [
+              "animation",
+              "svg",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -304,12 +459,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight JavaScript (ES6) tweening engine",
+            "homepage": "https://between.js.org/",
             "id": 133408559,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-24T15:40:48Z",
+            "open_issues": 17,
             "owner": "sasha240100",
             "repo": "between.js",
-            "stars": 707
+            "stars": 707,
+            "topics": [
+              "animation",
+              "es6",
+              "lightweight",
+              "smooth",
+              "tweening"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -320,12 +486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Robert Penner's easing functions in GLSL, available as a module for glslify.",
+            "homepage": "http://glslify.github.io/glsl-easings/",
             "id": 19893932,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2020-07-18T17:41:54Z",
+            "open_issues": 6,
             "owner": "glslify",
             "repo": "glsl-easings",
-            "stars": 467
+            "stars": 467,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -336,12 +507,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Making Animation Simple",
+            "homepage": "https://just-animate.github.io/",
             "id": 52121557,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2019-03-26T22:04:35Z",
+            "open_issues": 4,
             "owner": "just-animate",
             "repo": "just-animate",
-            "stars": 269
+            "stars": 269,
+            "topics": [
+              "animation",
+              "animation-controller",
+              "css-variables",
+              "easings",
+              "multiple-animations",
+              "svg-animations",
+              "timeline",
+              "transitions",
+              "typescript",
+              "waapi",
+              "web-animation"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -352,12 +540,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ES6 version of tween.js",
+            "homepage": null,
             "id": 30642958,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-27T06:15:10Z",
+            "open_issues": 11,
             "owner": "tweenjs",
             "repo": "es6-tween",
-            "stars": 186
+            "stars": 186,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -368,12 +561,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tiny Javascript tweening engine.",
+            "homepage": "https://sfi0zy.github.io/weeee/",
             "id": 375981714,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-06-16T15:40:22Z",
+            "open_issues": 0,
             "owner": "sfi0zy",
             "repo": "weeee",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "animation",
+              "tween"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         }
@@ -390,12 +591,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
+            "homepage": "https://animate.style/",
             "id": 2561582,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-29T19:34:21Z",
+            "open_issues": 79,
             "owner": "animate-css",
             "repo": "animate.css",
-            "stars": 82757
+            "stars": 82756,
+            "topics": [
+              "animation",
+              "css",
+              "css-animations",
+              "stylesheets"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -406,12 +617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of loading indicators animated with CSS",
+            "homepage": "http://tobiasahlin.com/spinkit/",
             "id": 15150300,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2020-08-01T09:04:59Z",
+            "open_issues": 11,
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19333
+            "stars": 19333,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -422,12 +638,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS3 Animations with special effects",
+            "homepage": "https://www.minimamente.com/project/magic/",
             "id": 10652377,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2022-08-23T21:08:20Z",
+            "open_issues": 0,
             "owner": "miniMAC",
             "repo": "magic",
-            "stars": 8603
+            "stars": 8602,
+            "topics": [
+              "animation",
+              "css",
+              "css3",
+              "css3-animations",
+              "gulp",
+              "magic",
+              "npm",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -438,12 +668,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of loading spinners animated with CSS",
+            "homepage": null,
             "id": 19510544,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-02-21T15:13:22Z",
+            "open_issues": 21,
             "owner": "lukehaas",
             "repo": "css-loaders",
-            "stars": 7052
+            "stars": 7052,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -454,12 +689,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create beautiful CSS3 powered animations in no time.",
+            "homepage": "http://bouncejs.com/",
             "id": 18638428,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2020-09-03T08:17:21Z",
+            "open_issues": 12,
             "owner": "tictail",
             "repo": "bounce.js",
-            "stars": 6159
+            "stars": 6159,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -470,12 +710,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💎 The powerful Sass library for creating CSS transitions and animations",
+            "homepage": "https://zurb.com/playground/motion-ui",
             "id": 32550958,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2024-09-26T21:51:12Z",
+            "open_issues": 18,
             "owner": "foundation",
             "repo": "motion-ui",
-            "stars": 1167
+            "stars": 1167,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         }
@@ -492,12 +737,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",
+            "homepage": "http://fabricjs.com",
             "id": 712530,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T17:25:50Z",
+            "open_issues": 468,
             "owner": "fabricjs",
             "repo": "fabric.js",
-            "stars": 31413
+            "stars": 31415,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -508,12 +758,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey",
+            "homepage": "http://paperjs.org",
             "id": 1338813,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-23T00:58:54Z",
+            "open_issues": 429,
             "owner": "paperjs",
             "repo": "paper.js",
-            "stars": 15071
+            "stars": 15072,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -524,12 +779,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.",
+            "homepage": "http://konvajs.org/",
             "id": 29011477,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T22:58:21Z",
+            "open_issues": 1,
             "owner": "konvajs",
             "repo": "konva",
-            "stars": 14726
+            "stars": 14727,
+            "topics": [
+              "animation",
+              "canvas",
+              "drag-and-drop",
+              "graphics",
+              "javascript",
+              "konva",
+              "node-canvas",
+              "shape"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -540,12 +809,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+            "homepage": "https://particles.js.org",
             "id": 238514517,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:05:44Z",
+            "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972
+            "stars": 8972,
+            "topics": [
+              "2d",
+              "angular",
+              "animations",
+              "bg",
+              "canvas",
+              "confetti",
+              "fireworks",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "js",
+              "npm",
+              "particles",
+              "react",
+              "svelte",
+              "ts",
+              "tsparticles",
+              "typescript",
+              "vue",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -556,12 +851,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A renderer agnostic two-dimensional drawing api for the web",
+            "homepage": "http://two.js.org/",
             "id": 5694937,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T17:35:16Z",
+            "open_issues": 36,
             "owner": "jonobr1",
             "repo": "two.js",
-            "stars": 8653
+            "stars": 8653,
+            "topics": [
+              "2d",
+              "animation",
+              "bitmap-graphics",
+              "canvas",
+              "es6",
+              "html5",
+              "javascript",
+              "renderer",
+              "rendering-engine",
+              "scenegraph",
+              "svg",
+              "text-rendering",
+              "vector-graphics",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -572,12 +887,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.",
+            "homepage": "http://createjs.com/",
             "id": 1280658,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-24T17:25:05Z",
+            "open_issues": 221,
             "owner": "CreateJS",
             "repo": "EaselJS",
-            "stars": 8158
+            "stars": 8158,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -588,12 +908,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for visualization and creative-coding",
+            "homepage": "https://ptsjs.org",
             "id": 86075041,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T07:48:07Z",
+            "open_issues": 52,
             "owner": "williamngan",
             "repo": "pts",
-            "stars": 5341
+            "stars": 5341,
+            "topics": [
+              "art",
+              "canvas",
+              "creative-coding",
+              "design",
+              "generative",
+              "generative-art",
+              "graphic-design",
+              "graphics",
+              "linear-algebra",
+              "pts",
+              "sound",
+              "svg",
+              "typescript",
+              "vector",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -604,12 +945,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript library to draw and animate images on hover",
+            "homepage": null,
             "id": 126996636,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-06-27T00:32:24Z",
+            "open_issues": 24,
             "owner": "robin-dela",
             "repo": "hover-effect",
-            "stars": 1881
+            "stars": 1881,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -620,12 +966,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "curtains.js is a lightweight vanilla WebGL javascript library that turns HTML DOM elements into interactive textured planes.",
+            "homepage": "https://www.curtainsjs.com/",
             "id": 131020675,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-03T08:29:16Z",
+            "open_issues": 12,
             "owner": "martinlaxenaire",
             "repo": "curtainsjs",
-            "stars": 1824
+            "stars": 1824,
+            "topics": [
+              "3d",
+              "canvas",
+              "curtains",
+              "curtainsjs",
+              "dom",
+              "glsl",
+              "html5",
+              "javascript",
+              "responsive",
+              "shader",
+              "shaders",
+              "texture",
+              "webgl",
+              "webgl2"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -636,12 +1002,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript library for object-based canvas drawing.",
+            "homepage": "http://ocanvas.org/",
             "id": 1500404,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-06-24T16:20:08Z",
+            "open_issues": 33,
             "owner": "koggdal",
             "repo": "ocanvas",
-            "stars": 488
+            "stars": 488,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         }
@@ -658,12 +1029,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Animate on scroll library",
+            "homepage": null,
             "id": 38836015,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-26T15:58:43Z",
+            "open_issues": 374,
             "owner": "michalsnik",
             "repo": "aos",
-            "stars": 28055
+            "stars": 28054,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -674,12 +1050,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Animate elements as they scroll into view.",
+            "homepage": "https://scrollrevealjs.org/",
             "id": 15975439,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-04-05T17:55:48Z",
+            "open_issues": 41,
             "owner": "jlmakes",
             "repo": "scrollreveal",
-            "stars": 22475
+            "stars": 22475,
+            "topics": [
+              "animation",
+              "css",
+              "javascript",
+              "reveal",
+              "scroll",
+              "scrollreveal",
+              "transform",
+              "transition"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -690,12 +1080,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The javascript library for magical scroll interactions.",
+            "homepage": "http://ScrollMagic.io",
             "id": 13030144,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-04T09:26:15Z",
+            "open_issues": 4,
             "owner": "janpaepke",
             "repo": "ScrollMagic",
-            "stars": 14957
+            "stars": 14956,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -706,12 +1101,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.",
+            "homepage": null,
             "id": 175176201,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-21T06:07:55Z",
+            "open_issues": 20,
             "owner": "alexfoxy",
             "repo": "lax.js",
-            "stars": 10474
+            "stars": 10474,
+            "topics": [
+              "animation",
+              "css",
+              "effects",
+              "parallax",
+              "scroll",
+              "transitions"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -722,12 +1129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reveal CSS animation as you scroll down a page",
+            "homepage": "https://www.delac.io/WOW/",
             "id": 15505458,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-06-24T02:08:52Z",
+            "open_issues": 191,
             "owner": "mattdelacdev",
             "repo": "WOW",
-            "stars": 9899
+            "stars": 9899,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -738,12 +1150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Performance focused, lightweight scroll animation library 🚀",
+            "homepage": "https://mciastek.github.io/sal/",
             "id": 105066903,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-01-07T04:11:22Z",
+            "open_issues": 42,
             "owner": "mciastek",
             "repo": "sal",
-            "stars": 3693
+            "stars": 3693,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -754,12 +1171,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Animation library that mimics CSS keyframes when scrolling.",
+            "homepage": "https://alexcambose.github.io/motus/",
             "id": 134460453,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-06-08T14:09:46Z",
+            "open_issues": 37,
             "owner": "alexcambose",
             "repo": "motus",
-            "stars": 623
+            "stars": 623,
+            "topics": [
+              "animation",
+              "css",
+              "css-animations",
+              "dom",
+              "javascript",
+              "keyframes",
+              "parallax",
+              "scroll",
+              "typescript",
+              "viewport"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         }
@@ -776,12 +1209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript Typing Animation Library",
+            "homepage": "http://www.mattboldt.com/demos/typed-js/",
             "id": 10290605,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-25T21:28:00Z",
+            "open_issues": 22,
             "owner": "mattboldt",
             "repo": "typed.js",
-            "stars": 16284
+            "stars": 16284,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -792,12 +1230,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript API for drawing unconventional text effects on the web.",
+            "homepage": "https://blotter.js.org",
             "id": 52313854,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2020-07-28T12:49:10Z",
+            "open_issues": 20,
             "owner": "bradley",
             "repo": "Blotter",
-            "stars": 3077
+            "stars": 3077,
+            "topics": [
+              "animation",
+              "creative-coding",
+              "css",
+              "design",
+              "glsl",
+              "glsl-shaders",
+              "javascript",
+              "lsd",
+              "text",
+              "typography",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -808,12 +1263,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":keyboard: Simulate a typewriter effect in vanilla JavaScript.",
+            "homepage": "https://codepen.io/lyuanqing/pen/oqgOMK",
             "id": 23299602,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-01-30T07:40:51Z",
+            "open_issues": 3,
             "owner": "yuanqing",
             "repo": "malarkey",
-            "stars": 237
+            "stars": 237,
+            "topics": [
+              "javascript",
+              "typewriter"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -824,12 +1287,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"shuffle-text\" is JavaScript text effect library such as cool legacy of Flash.",
+            "homepage": "https://ics.media/entry/15498/",
             "id": 88840786,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-09T07:35:33Z",
+            "open_issues": 1,
             "owner": "ics-ikeda",
             "repo": "shuffle-text",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "effects",
+              "html5",
+              "javascript",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -840,12 +1313,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Javascript library for typing animation ",
+            "homepage": null,
             "id": 63479375,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2016-08-10T01:30:20Z",
+            "open_issues": 2,
             "owner": "akzhy",
             "repo": "typebot",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         }
@@ -862,12 +1340,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern animation library for React and JavaScript",
+            "homepage": "https://motion.dev",
             "id": 157846876,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T11:26:28Z",
+            "open_issues": 107,
             "owner": "motiondivision",
             "repo": "motion",
-            "stars": 33392
+            "stars": 33395,
+            "topics": [
+              "animation",
+              "animation-js",
+              "motion",
+              "react",
+              "reactanimations",
+              "spring"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -878,12 +1368,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transform SVGs into React components 🦁",
+            "homepage": "https://react-svgr.com",
             "id": 102155012,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-01T18:35:20Z",
+            "open_issues": 148,
             "owner": "gregberge",
             "repo": "svgr",
-            "stars": 11057
+            "stars": 11057,
+            "topics": [
+              "inline-svg",
+              "loader",
+              "react",
+              "react-native",
+              "react-svg",
+              "react-svg-creator",
+              "react-svg-loader",
+              "svg",
+              "svg-react",
+              "svg-to-react",
+              "svg2react",
+              "svgo",
+              "webpack",
+              "webpack-loader"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         },
@@ -894,12 +1404,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+            "homepage": "https://particles.js.org",
             "id": 238514517,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T07:05:44Z",
+            "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972
+            "stars": 8972,
+            "topics": [
+              "2d",
+              "angular",
+              "animations",
+              "bg",
+              "canvas",
+              "confetti",
+              "fireworks",
+              "hacktoberfest",
+              "html",
+              "javascript",
+              "js",
+              "npm",
+              "particles",
+              "react",
+              "svelte",
+              "ts",
+              "tsparticles",
+              "typescript",
+              "vue",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
         }
@@ -908,15 +1444,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:45:26.457Z",
+    "last_updated": "2026-08-29T04:30:46.512Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome web animation libraries, books, apps etc.",
+      "homepage": "https://awesome-web-animation.netlify.app",
       "id": 89600573,
       "language": "JavaScript",
+      "license": "CC0-1.0",
       "last_commit": "2023-07-12T12:52:20Z",
+      "open_issues": 8,
       "owner": "sergey-pimenov",
       "repo": "awesome-web-animation",
-      "stars": 1573
+      "stars": 1573,
+      "topics": [
+        "animation",
+        "awesome",
+        "awesome-list",
+        "canvas-animation",
+        "css-animations",
+        "transitions",
+        "web-animation"
+      ]
     },
     "original_repository_sha": "2f3d02a7400d653e3b6e152adeeb99d215ff5d56",
     "enhanced_repository": "enhansome/enhansome-web-animation",
