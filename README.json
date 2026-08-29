@@ -162,7 +162,7 @@
             "open_issues": 115,
             "owner": "juliangarnier",
             "repo": "anime",
-            "stars": 72493,
+            "stars": 72504,
             "topics": [
               "animation",
               "anime",
@@ -191,7 +191,7 @@
             "open_issues": 5,
             "owner": "greensock",
             "repo": "GSAP",
-            "stars": 28073,
+            "stars": 28082,
             "topics": [
               "animation",
               "gsap",
@@ -626,7 +626,7 @@
             "open_issues": 11,
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19333,
+            "stars": 19332,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -746,7 +746,7 @@
             "open_issues": 468,
             "owner": "fabricjs",
             "repo": "fabric.js",
-            "stars": 31415,
+            "stars": 31416,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -788,7 +788,7 @@
             "open_issues": 1,
             "owner": "konvajs",
             "repo": "konva",
-            "stars": 14727,
+            "stars": 14729,
             "topics": [
               "animation",
               "canvas",
@@ -856,8 +856,8 @@
             "id": 5694937,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-24T17:35:16Z",
-            "open_issues": 36,
+            "last_commit": "2026-08-29T05:37:11Z",
+            "open_issues": 34,
             "owner": "jonobr1",
             "repo": "two.js",
             "stars": 8653,
@@ -1349,7 +1349,7 @@
             "open_issues": 107,
             "owner": "motiondivision",
             "repo": "motion",
-            "stars": 33395,
+            "stars": 33397,
             "topics": [
               "animation",
               "animation-js",
@@ -1444,7 +1444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:30:46.512Z",
+    "last_updated": "2026-08-29T12:42:52.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome web animation libraries, books, apps etc.",

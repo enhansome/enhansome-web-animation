@@ -34,8 +34,8 @@ This list contains the most useful tools and data for creating web animations.
 
 ## Common
 
-* [Anime.js](https://github.com/juliangarnier/anime) ⭐ 72,493 | 🐛 115 | 🌐 JavaScript | 📅 2026-08-21 - JavaScript animation engine.
-* [GSAP](https://github.com/greensock/GSAP) ⭐ 28,073 | 🐛 5 | 🌐 JavaScript | 📅 2026-04-13 - JavaScript animation library.
+* [Anime.js](https://github.com/juliangarnier/anime) ⭐ 72,504 | 🐛 115 | 🌐 JavaScript | 📅 2026-08-21 - JavaScript animation engine.
+* [GSAP](https://github.com/greensock/GSAP) ⭐ 28,082 | 🐛 5 | 🌐 JavaScript | 📅 2026-04-13 - JavaScript animation library.
 * [Mojs](https://github.com/mojs/mojs) ⭐ 18,758 | 🐛 37 | 🌐 CoffeeScript | 📅 2026-07-30 - The motion graphics toolbelt for the web.
 * [Velocity](https://github.com/julianshapiro/velocity) ⭐ 17,200 | 🐛 40 | 🌐 JavaScript | 📅 2020-10-24 - Accelerated JavaScript animation.
 * [Progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) ⭐ 7,855 | 🐛 69 | 🌐 JavaScript | 📅 2024-11-02 - Responsive and slick progress bars.
@@ -55,7 +55,7 @@ This list contains the most useful tools and data for creating web animations.
 ## CSS
 
 * [Animate.css](https://github.com/daneden/animate.css) ⭐ 82,756 | 🐛 79 | 🌐 CSS | 📅 2024-07-29 -  A cross-browser library of CSS animations. As easy to use as an easy thing.
-* [SpinKit](https://github.com/tobiasahlin/SpinKit) ⭐ 19,333 | 🐛 11 | 🌐 CSS | 📅 2020-08-01 - A collection of loading indicators animated with CSS.
+* [SpinKit](https://github.com/tobiasahlin/SpinKit) ⭐ 19,332 | 🐛 11 | 🌐 CSS | 📅 2020-08-01 - A collection of loading indicators animated with CSS.
 * [Magic](https://github.com/miniMAC/magic) ⭐ 8,602 | 🐛 0 | 🌐 SCSS | 📅 2022-08-23 - CSS3 Animations with special effects.
 * [Css-loaders](https://github.com/lukehaas/css-loaders) ⭐ 7,052 | 🐛 21 | 🌐 CSS | 📅 2025-02-21 - A collection of loading spinners animated with CSS.
 * [Bounce.js](https://github.com/tictail/bounce.js) ⭐ 6,159 | 🐛 12 | 🌐 CSS | 📅 2020-09-03 - Create beautiful CSS3 powered animations in no time.
@@ -63,11 +63,11 @@ This list contains the most useful tools and data for creating web animations.
 
 ## Canvas
 
-* [Fabric.js](https://github.com/fabricjs/fabric.js) ⭐ 31,415 | 🐛 468 | 🌐 TypeScript | 📅 2026-08-18 - JavaScript canvas library with animation support.
+* [Fabric.js](https://github.com/fabricjs/fabric.js) ⭐ 31,416 | 🐛 468 | 🌐 TypeScript | 📅 2026-08-18 - JavaScript canvas library with animation support.
 * [Paper.js](https://github.com/paperjs/paper.js) ⭐ 15,072 | 🐛 429 | 🌐 JavaScript | 📅 2024-07-23 - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
-* [Konva](https://github.com/konvajs/konva) ⭐ 14,727 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-26 - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
+* [Konva](https://github.com/konvajs/konva) ⭐ 14,729 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-26 - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 * [tsParticles](https://github.com/matteobruni/tsparticles/) ⭐ 8,972 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-13 - tsParticles is a lightweight typescript/javascript library for creating easily particles animations.
-* [Two.js](https://github.com/jonobr1/two.js) ⭐ 8,653 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-24 - A renderer agnostic two-dimensional drawing api for the web with animation support.
+* [Two.js](https://github.com/jonobr1/two.js) ⭐ 8,653 | 🐛 34 | 🌐 JavaScript | 📅 2026-08-29 - A renderer agnostic two-dimensional drawing api for the web with animation support.
 * [EaselJS](https://github.com/CreateJS/EaselJS) ⭐ 8,158 | 🐛 221 | 🌐 JavaScript | 📅 2026-01-24 - EaselJS is a library for building high-performance interactive 2D content in HTML5.
 * [Pts.js](https://github.com/williamngan/pts) ⭐ 5,341 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-24 - Pts is a typescript/javascript library for visualization and creative-coding.
 * [Hover-effect](https://github.com/robin-dela/hover-effect) ⭐ 1,881 | 🐛 24 | 🌐 HTML | 📅 2023-06-27 - JavaScript library to draw and animate images on hover.
@@ -94,7 +94,7 @@ This list contains the most useful tools and data for creating web animations.
 
 ## React
 
-* [Motion](https://github.com/framer/motion) ⭐ 33,395 | 🐛 107 | 🌐 TypeScript | 📅 2026-08-26 - Open source, production-ready animation and gesture library for React.
+* [Motion](https://github.com/framer/motion) ⭐ 33,397 | 🐛 107 | 🌐 TypeScript | 📅 2026-08-26 - Open source, production-ready animation and gesture library for React.
 * [SVGR](https://github.com/gregberge/svgr) ⭐ 11,057 | 🐛 148 | 🌐 TypeScript | 📅 2026-03-01 - Transform SVGs into React components.
 * [React tsParticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) ⭐ 8,972 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-13 - ReactJS wrapper for *tsParticles*
 * [React spring](https://www.react-spring.io/) - Open source, spring-physics based animation library for React that supports interpolations. Fast and easy to use.
