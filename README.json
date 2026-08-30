@@ -114,7 +114,7 @@
             "open_issues": 4,
             "owner": "ConnorAtherton",
             "repo": "walkway",
-            "stars": 4347,
+            "stars": 4346,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -162,7 +162,7 @@
             "open_issues": 115,
             "owner": "juliangarnier",
             "repo": "anime",
-            "stars": 72504,
+            "stars": 72521,
             "topics": [
               "animation",
               "anime",
@@ -191,7 +191,7 @@
             "open_issues": 5,
             "owner": "greensock",
             "repo": "GSAP",
-            "stars": 28082,
+            "stars": 28097,
             "topics": [
               "animation",
               "gsap",
@@ -218,7 +218,7 @@
             "open_issues": 37,
             "owner": "mojs",
             "repo": "mojs",
-            "stars": 18758,
+            "stars": 18759,
             "topics": [
               "animation",
               "burst",
@@ -600,7 +600,7 @@
             "open_issues": 79,
             "owner": "animate-css",
             "repo": "animate.css",
-            "stars": 82756,
+            "stars": 82761,
             "topics": [
               "animation",
               "css",
@@ -626,7 +626,7 @@
             "open_issues": 11,
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19332,
+            "stars": 19333,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -818,7 +818,7 @@
             "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972,
+            "stars": 8973,
             "topics": [
               "2d",
               "angular",
@@ -1038,7 +1038,7 @@
             "open_issues": 374,
             "owner": "michalsnik",
             "repo": "aos",
-            "stars": 28054,
+            "stars": 28055,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -1345,11 +1345,11 @@
             "id": 157846876,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-26T11:26:28Z",
-            "open_issues": 107,
+            "last_commit": "2026-08-30T10:56:48Z",
+            "open_issues": 109,
             "owner": "motiondivision",
             "repo": "motion",
-            "stars": 33397,
+            "stars": 33411,
             "topics": [
               "animation",
               "animation-js",
@@ -1413,7 +1413,7 @@
             "open_issues": 22,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8972,
+            "stars": 8973,
             "topics": [
               "2d",
               "angular",
@@ -1444,7 +1444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:42:52.755Z",
+    "last_updated": "2026-08-30T11:57:30.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome web animation libraries, books, apps etc.",
@@ -1456,7 +1456,7 @@
       "open_issues": 8,
       "owner": "sergey-pimenov",
       "repo": "awesome-web-animation",
-      "stars": 1573,
+      "stars": 1574,
       "topics": [
         "animation",
         "awesome",
