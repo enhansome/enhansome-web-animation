@@ -37,7 +37,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-06-12T11:43:39Z",
-            "open_issues": 267,
+            "open_issues": 268,
             "owner": "adobe-webplatform",
             "repo": "Snap.svg",
             "stars": 14006,
@@ -67,7 +67,7 @@
             "open_issues": 0,
             "owner": "svgdotjs",
             "repo": "svg.js",
-            "stars": 11822,
+            "stars": 11821,
             "topics": [
               "animation",
               "javascript",
@@ -162,7 +162,7 @@
             "open_issues": 115,
             "owner": "juliangarnier",
             "repo": "anime",
-            "stars": 72552,
+            "stars": 72563,
             "topics": [
               "animation",
               "anime",
@@ -191,7 +191,7 @@
             "open_issues": 5,
             "owner": "greensock",
             "repo": "GSAP",
-            "stars": 28125,
+            "stars": 28157,
             "topics": [
               "animation",
               "gsap",
@@ -600,7 +600,7 @@
             "open_issues": 80,
             "owner": "animate-css",
             "repo": "animate.css",
-            "stars": 82765,
+            "stars": 82766,
             "topics": [
               "animation",
               "css",
@@ -743,7 +743,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-18T17:25:50Z",
-            "open_issues": 468,
+            "open_issues": 469,
             "owner": "fabricjs",
             "repo": "fabric.js",
             "stars": 31418,
@@ -767,7 +767,7 @@
             "open_issues": 429,
             "owner": "paperjs",
             "repo": "paper.js",
-            "stars": 15072,
+            "stars": 15073,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -788,7 +788,7 @@
             "open_issues": 1,
             "owner": "konvajs",
             "repo": "konva",
-            "stars": 14734,
+            "stars": 14735,
             "topics": [
               "animation",
               "canvas",
@@ -857,7 +857,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-29T05:37:11Z",
-            "open_issues": 34,
+            "open_issues": 43,
             "owner": "jonobr1",
             "repo": "two.js",
             "stars": 8653,
@@ -1089,7 +1089,7 @@
             "open_issues": 4,
             "owner": "janpaepke",
             "repo": "ScrollMagic",
-            "stars": 14956,
+            "stars": 14958,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -1218,7 +1218,7 @@
             "open_issues": 22,
             "owner": "mattboldt",
             "repo": "typed.js",
-            "stars": 16285,
+            "stars": 16284,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -1345,11 +1345,11 @@
             "id": 157846876,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T19:44:22Z",
+            "last_commit": "2026-09-01T11:37:24Z",
             "open_issues": 109,
             "owner": "motiondivision",
             "repo": "motion",
-            "stars": 33427,
+            "stars": 33439,
             "topics": [
               "animation",
               "animation-js",
@@ -1377,7 +1377,7 @@
             "open_issues": 149,
             "owner": "gregberge",
             "repo": "svgr",
-            "stars": 11057,
+            "stars": 11058,
             "topics": [
               "inline-svg",
               "loader",
@@ -1444,7 +1444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T13:56:42.646Z",
+    "last_updated": "2026-09-01T11:42:06.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome web animation libraries, books, apps etc.",
