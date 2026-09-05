@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "maxwellito",
             "repo": "vivus",
-            "stars": 15484,
+            "stars": 15481,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -40,7 +40,7 @@
             "open_issues": 268,
             "owner": "adobe-webplatform",
             "repo": "Snap.svg",
-            "stars": 14008,
+            "stars": 14009,
             "topics": [
               "javascript",
               "javascript-library",
@@ -67,7 +67,7 @@
             "open_issues": 0,
             "owner": "svgdotjs",
             "repo": "svg.js",
-            "stars": 11822,
+            "stars": 11821,
             "topics": [
               "animation",
               "javascript",
@@ -162,7 +162,7 @@
             "open_issues": 118,
             "owner": "juliangarnier",
             "repo": "anime",
-            "stars": 72646,
+            "stars": 72674,
             "topics": [
               "animation",
               "anime",
@@ -191,7 +191,7 @@
             "open_issues": 5,
             "owner": "greensock",
             "repo": "GSAP",
-            "stars": 28235,
+            "stars": 28251,
             "topics": [
               "animation",
               "gsap",
@@ -333,7 +333,7 @@
             "open_issues": 36,
             "owner": "visionmedia",
             "repo": "move.js",
-            "stars": 4692,
+            "stars": 4691,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -392,11 +392,11 @@
             "id": 15289182,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T11:58:59Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-05T09:22:54Z",
+            "open_issues": 0,
             "owner": "gre",
             "repo": "bezier-easing",
-            "stars": 1776,
+            "stars": 1775,
             "topics": [
               "animation",
               "bezier",
@@ -600,7 +600,7 @@
             "open_issues": 80,
             "owner": "animate-css",
             "repo": "animate.css",
-            "stars": 82777,
+            "stars": 82780,
             "topics": [
               "animation",
               "css",
@@ -626,7 +626,7 @@
             "open_issues": 11,
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19332,
+            "stars": 19331,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -746,7 +746,7 @@
             "open_issues": 469,
             "owner": "fabricjs",
             "repo": "fabric.js",
-            "stars": 31422,
+            "stars": 31421,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -764,10 +764,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2024-07-23T00:58:54Z",
-            "open_issues": 429,
+            "open_issues": 430,
             "owner": "paperjs",
             "repo": "paper.js",
-            "stars": 15072,
+            "stars": 15073,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -779,25 +779,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.",
-            "homepage": "http://konvajs.org/",
+            "description": "Konva.js is an HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams. Scene graph with events, drag and drop, transforms, animations, and export.",
+            "homepage": "https://konvajs.org/",
             "id": 29011477,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T19:34:12Z",
+            "last_commit": "2026-09-04T16:58:23Z",
             "open_issues": 0,
             "owner": "konvajs",
             "repo": "konva",
-            "stars": 14753,
+            "stars": 14757,
             "topics": [
               "animation",
               "canvas",
+              "canvas-editor",
+              "design-editor",
               "drag-and-drop",
               "graphics",
+              "html5-canvas",
               "javascript",
               "konva",
               "node-canvas",
-              "shape"
+              "shape",
+              "whiteboard"
             ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -818,7 +822,7 @@
             "open_issues": 21,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8974,
+            "stars": 8977,
             "topics": [
               "2d",
               "angular",
@@ -856,11 +860,11 @@
             "id": 5694937,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T17:50:09Z",
+            "last_commit": "2026-09-05T06:43:22Z",
             "open_issues": 44,
             "owner": "jonobr1",
             "repo": "two.js",
-            "stars": 8654,
+            "stars": 8655,
             "topics": [
               "2d",
               "animation",
@@ -913,11 +917,11 @@
             "id": 86075041,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T07:15:20Z",
+            "last_commit": "2026-09-05T06:29:30Z",
             "open_issues": 52,
             "owner": "williamngan",
             "repo": "pts",
-            "stars": 5342,
+            "stars": 5341,
             "topics": [
               "art",
               "canvas",
@@ -975,7 +979,7 @@
             "open_issues": 12,
             "owner": "martinlaxenaire",
             "repo": "curtainsjs",
-            "stars": 1824,
+            "stars": 1823,
             "topics": [
               "3d",
               "canvas",
@@ -1038,7 +1042,7 @@
             "open_issues": 374,
             "owner": "michalsnik",
             "repo": "aos",
-            "stars": 28058,
+            "stars": 28053,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -1059,7 +1063,7 @@
             "open_issues": 41,
             "owner": "jlmakes",
             "repo": "scrollreveal",
-            "stars": 22476,
+            "stars": 22475,
             "topics": [
               "animation",
               "css",
@@ -1218,7 +1222,7 @@
             "open_issues": 22,
             "owner": "mattboldt",
             "repo": "typed.js",
-            "stars": 16282,
+            "stars": 16283,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -1349,7 +1353,7 @@
             "open_issues": 108,
             "owner": "motiondivision",
             "repo": "motion",
-            "stars": 33478,
+            "stars": 33493,
             "topics": [
               "animation",
               "animation-js",
@@ -1377,7 +1381,7 @@
             "open_issues": 149,
             "owner": "gregberge",
             "repo": "svgr",
-            "stars": 11059,
+            "stars": 11060,
             "topics": [
               "inline-svg",
               "loader",
@@ -1413,7 +1417,7 @@
             "open_issues": 21,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8974,
+            "stars": 8977,
             "topics": [
               "2d",
               "angular",
@@ -1444,7 +1448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T11:22:00.614Z",
+    "last_updated": "2026-09-05T10:38:59.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome web animation libraries, books, apps etc.",
