@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "maxwellito",
             "repo": "vivus",
-            "stars": 15481,
+            "stars": 15480,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -135,7 +135,7 @@
             "open_issues": 93,
             "owner": "uxebu",
             "repo": "bonsai",
-            "stars": 1963,
+            "stars": 1962,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -162,7 +162,7 @@
             "open_issues": 118,
             "owner": "juliangarnier",
             "repo": "anime",
-            "stars": 72895,
+            "stars": 72912,
             "topics": [
               "animation",
               "anime",
@@ -191,7 +191,7 @@
             "open_issues": 5,
             "owner": "greensock",
             "repo": "GSAP",
-            "stars": 28478,
+            "stars": 28490,
             "topics": [
               "animation",
               "gsap",
@@ -218,7 +218,7 @@
             "open_issues": 37,
             "owner": "mojs",
             "repo": "mojs",
-            "stars": 18774,
+            "stars": 18775,
             "topics": [
               "animation",
               "burst",
@@ -280,7 +280,7 @@
             "open_issues": 69,
             "owner": "kimmobrunfeldt",
             "repo": "progressbar.js",
-            "stars": 7853,
+            "stars": 7852,
             "topics": [
               "animation",
               "javascript",
@@ -333,7 +333,7 @@
             "open_issues": 36,
             "owner": "visionmedia",
             "repo": "move.js",
-            "stars": 4690,
+            "stars": 4688,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -600,7 +600,7 @@
             "open_issues": 80,
             "owner": "animate-css",
             "repo": "animate.css",
-            "stars": 82799,
+            "stars": 82802,
             "topics": [
               "animation",
               "css",
@@ -626,7 +626,7 @@
             "open_issues": 11,
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19323,
+            "stars": 19324,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -647,7 +647,7 @@
             "open_issues": 0,
             "owner": "miniMAC",
             "repo": "magic",
-            "stars": 8603,
+            "stars": 8602,
             "topics": [
               "animation",
               "css",
@@ -677,7 +677,7 @@
             "open_issues": 21,
             "owner": "lukehaas",
             "repo": "css-loaders",
-            "stars": 7051,
+            "stars": 7050,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -698,7 +698,7 @@
             "open_issues": 12,
             "owner": "tictail",
             "repo": "bounce.js",
-            "stars": 6155,
+            "stars": 6154,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -788,7 +788,7 @@
             "open_issues": 0,
             "owner": "konvajs",
             "repo": "konva",
-            "stars": 14799,
+            "stars": 14804,
             "topics": [
               "animation",
               "canvas",
@@ -818,7 +818,7 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T09:12:18Z",
+            "last_commit": "2026-09-19T10:57:12Z",
             "open_issues": 19,
             "owner": "tsparticles",
             "repo": "tsparticles",
@@ -900,7 +900,7 @@
             "open_issues": 221,
             "owner": "CreateJS",
             "repo": "EaselJS",
-            "stars": 8158,
+            "stars": 8157,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -917,11 +917,11 @@
             "id": 86075041,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T08:08:28Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-19T07:53:31Z",
+            "open_issues": 19,
             "owner": "williamngan",
             "repo": "pts",
-            "stars": 5347,
+            "stars": 5346,
             "topics": [
               "art",
               "canvas",
@@ -979,7 +979,7 @@
             "open_issues": 12,
             "owner": "martinlaxenaire",
             "repo": "curtainsjs",
-            "stars": 1825,
+            "stars": 1826,
             "topics": [
               "3d",
               "canvas",
@@ -1042,7 +1042,7 @@
             "open_issues": 375,
             "owner": "michalsnik",
             "repo": "aos",
-            "stars": 28054,
+            "stars": 28052,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -1063,7 +1063,7 @@
             "open_issues": 41,
             "owner": "jlmakes",
             "repo": "scrollreveal",
-            "stars": 22476,
+            "stars": 22475,
             "topics": [
               "animation",
               "css",
@@ -1243,7 +1243,7 @@
             "open_issues": 20,
             "owner": "bradley",
             "repo": "Blotter",
-            "stars": 3077,
+            "stars": 3078,
             "topics": [
               "animation",
               "creative-coding",
@@ -1353,7 +1353,7 @@
             "open_issues": 112,
             "owner": "motiondivision",
             "repo": "motion",
-            "stars": 33642,
+            "stars": 33655,
             "topics": [
               "animation",
               "animation-js",
@@ -1381,7 +1381,7 @@
             "open_issues": 150,
             "owner": "gregberge",
             "repo": "svgr",
-            "stars": 11060,
+            "stars": 11061,
             "topics": [
               "inline-svg",
               "loader",
@@ -1413,7 +1413,7 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T09:12:18Z",
+            "last_commit": "2026-09-19T10:57:12Z",
             "open_issues": 19,
             "owner": "tsparticles",
             "repo": "tsparticles",
@@ -1448,7 +1448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:19:46.833Z",
+    "last_updated": "2026-09-19T11:03:47.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome web animation libraries, books, apps etc.",
