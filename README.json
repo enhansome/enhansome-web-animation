@@ -5,6 +5,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Lottie",
+          "description": "Render After Effects animations natively on the web as SVG or Canvas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/",
+            "homepage": null,
+            "id": 31085130,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2025-09-01T09:01:31Z",
+            "open_issues": 857,
+            "owner": "airbnb",
+            "repo": "lottie-web",
+            "stars": 32115,
+            "topics": []
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
           "title": "Vivus",
           "description": "Library to make drawing animation on SVG.",
           "children": [],
@@ -19,7 +40,7 @@
             "open_issues": 22,
             "owner": "maxwellito",
             "repo": "vivus",
-            "stars": 15480,
+            "stars": 15481,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -67,7 +88,7 @@
             "open_issues": 0,
             "owner": "svgdotjs",
             "repo": "svg.js",
-            "stars": 11827,
+            "stars": 11828,
             "topics": [
               "animation",
               "javascript",
@@ -100,6 +121,27 @@
         },
         {
           "node_type": "item",
+          "title": "Flubber",
+          "description": "Tools for smoother SVG shape morphing and interpolation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tools for smoother shape animations.",
+            "homepage": null,
+            "id": 93835782,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2022-11-08T03:34:37Z",
+            "open_issues": 19,
+            "owner": "veltman",
+            "repo": "flubber",
+            "stars": 6935,
+            "topics": []
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
           "title": "Walkway",
           "description": "An easy way to animate SVG elements.",
           "children": [],
@@ -118,6 +160,37 @@
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Lazy Line Painter",
+          "description": "A modern JavaScript library for SVG path animation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Lazy Line Painter - A Modern JS library for SVG path animation",
+            "homepage": "https://lazylinepainter.com",
+            "id": 7705216,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2023-12-12T05:15:03Z",
+            "open_issues": 16,
+            "owner": "merri-ment",
+            "repo": "lazy-line-painter",
+            "stars": 1981,
+            "topics": [
+              "animation",
+              "animation-library",
+              "drawing",
+              "javascript",
+              "js",
+              "lightweight",
+              "path-animation",
+              "responsive",
+              "svg"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
         },
         {
           "node_type": "item",
@@ -162,7 +235,7 @@
             "open_issues": 118,
             "owner": "juliangarnier",
             "repo": "anime",
-            "stars": 72958,
+            "stars": 73003,
             "topics": [
               "animation",
               "anime",
@@ -191,7 +264,7 @@
             "open_issues": 5,
             "owner": "greensock",
             "repo": "GSAP",
-            "stars": 28501,
+            "stars": 28523,
             "topics": [
               "animation",
               "gsap",
@@ -201,6 +274,36 @@
             ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Popmotion",
+          "description": "Simple animation libraries for delightful user interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Simple animation libraries for delightful user interfaces",
+            "homepage": "https://popmotion.io",
+            "id": 23044617,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2024-03-12T00:37:37Z",
+            "open_issues": 50,
+            "owner": "Popmotion",
+            "repo": "popmotion",
+            "stars": 20154,
+            "topics": [
+              "animation",
+              "css",
+              "javascript-motion-engine",
+              "motion",
+              "physics",
+              "popmotion",
+              "svg",
+              "tween"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
         },
         {
           "node_type": "item",
@@ -218,7 +321,7 @@
             "open_issues": 37,
             "owner": "mojs",
             "repo": "mojs",
-            "stars": 18775,
+            "stars": 18779,
             "topics": [
               "animation",
               "burst",
@@ -259,10 +362,65 @@
             "open_issues": 40,
             "owner": "julianshapiro",
             "repo": "velocity",
-            "stars": 17193,
+            "stars": 17194,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AutoAnimate",
+          "description": "Zero-config, drop-in animation utility for smooth DOM transitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.",
+            "homepage": "https://auto-animate.formkit.com",
+            "id": 491235501,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-07-10T16:08:00Z",
+            "open_issues": 44,
+            "owner": "formkit",
+            "repo": "auto-animate",
+            "stars": 13926,
+            "topics": [
+              "animation",
+              "javascript",
+              "react",
+              "ui",
+              "vue"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Theatre.js",
+          "description": "Motion design editor for the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Motion design editor for the web",
+            "homepage": "https://www.theatrejs.com",
+            "id": 15393566,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2024-08-14T13:20:18Z",
+            "open_issues": 141,
+            "owner": "theatre-js",
+            "repo": "theatre",
+            "stars": 12690,
+            "topics": [
+              "animation",
+              "devtools",
+              "generative-art",
+              "motion-design",
+              "r3f",
+              "threejs"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
         },
         {
           "node_type": "item",
@@ -361,6 +519,33 @@
         },
         {
           "node_type": "item",
+          "title": "KUTE.js",
+          "description": "JavaScript animation engine for modern browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "KUTE.js is a JavaScript animation engine for modern browsers. ",
+            "homepage": "http://thednp.github.io/kute.js",
+            "id": 32592337,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-03-26T15:32:20Z",
+            "open_issues": 7,
+            "owner": "thednp",
+            "repo": "kute.js",
+            "stars": 2643,
+            "topics": [
+              "animation-engine",
+              "easing-functions",
+              "javascript",
+              "nodejs-modules",
+              "tween"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
           "title": "Animo.js",
           "description": "A powerful little tool for managing CSS animations.",
           "children": [],
@@ -422,10 +607,31 @@
             "open_issues": 6,
             "owner": "lvivski",
             "repo": "animatic",
-            "stars": 1383,
+            "stars": 1382,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Rive",
+          "description": "Web runtime for interactive Rive animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Wasm/JS runtime for Rive",
+            "homepage": null,
+            "id": 288047403,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-21T09:14:44Z",
+            "open_issues": 53,
+            "owner": "rive-app",
+            "repo": "rive-wasm",
+            "stars": 968,
+            "topics": []
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
         },
         {
           "node_type": "item",
@@ -600,7 +806,7 @@
             "open_issues": 80,
             "owner": "animate-css",
             "repo": "animate.css",
-            "stars": 82807,
+            "stars": 82808,
             "topics": [
               "animation",
               "css",
@@ -609,6 +815,31 @@
             ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Hover.css",
+          "description": "A collection of CSS3 powered hover effects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.",
+            "homepage": "http://ianlunn.github.io/Hover/",
+            "id": 15585444,
+            "language": "SCSS",
+            "license": "NOASSERTION",
+            "last_commit": "2023-10-28T16:07:33Z",
+            "open_issues": 42,
+            "owner": "IanLunn",
+            "repo": "Hover",
+            "stars": 29403,
+            "topics": [
+              "css",
+              "css-effects",
+              "sass"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
         },
         {
           "node_type": "item",
@@ -647,7 +878,7 @@
             "open_issues": 0,
             "owner": "miniMAC",
             "repo": "magic",
-            "stars": 8602,
+            "stars": 8603,
             "topics": [
               "animation",
               "css",
@@ -705,6 +936,139 @@
         },
         {
           "node_type": "item",
+          "title": "CSS Doodle",
+          "description": "A web component for drawing patterns with CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A web component for visual art and creative coding",
+            "homepage": "https://css-doodle.com",
+            "id": 81895167,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-20T12:44:58Z",
+            "open_issues": 5,
+            "owner": "css-doodle",
+            "repo": "css-doodle",
+            "stars": 6041,
+            "topics": [
+              "creative-coding",
+              "css",
+              "css-doodle",
+              "generative",
+              "generative-art",
+              "patterns",
+              "visual-art",
+              "web-component"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CSShake",
+          "description": "CSS classes to shake your DOM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CSS classes to move your DOM!",
+            "homepage": "https://elrumordelaluz.github.io/csshake/",
+            "id": 17179843,
+            "language": "SCSS",
+            "license": "MIT",
+            "last_commit": "2024-06-19T06:15:44Z",
+            "open_issues": 3,
+            "owner": "elrumordelaluz",
+            "repo": "csshake",
+            "stars": 4867,
+            "topics": [
+              "animation",
+              "css",
+              "csshake",
+              "dom",
+              "keyframe-animation",
+              "mixins",
+              "sass",
+              "shaking-animations"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AnimXYZ",
+          "description": "Composable CSS animation toolkit powered by CSS variables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.",
+            "homepage": "https://animxyz.com",
+            "id": 261039653,
+            "language": "CSS",
+            "license": "MIT",
+            "last_commit": "2026-09-18T01:29:26Z",
+            "open_issues": 41,
+            "owner": "ingram-projects",
+            "repo": "animxyz",
+            "stars": 2499,
+            "topics": [
+              "animation",
+              "animxyz",
+              "composable-animations",
+              "css",
+              "css-animations",
+              "css-framework",
+              "functional-css",
+              "react",
+              "scss",
+              "vue"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Whirl",
+          "description": "CSS loading animations with minimal effort.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CSS loading animations with minimal effort!",
+            "homepage": "https://whirl.netlify.com",
+            "id": 17076269,
+            "language": "SCSS",
+            "license": "MIT",
+            "last_commit": "2023-01-03T17:33:53Z",
+            "open_issues": 34,
+            "owner": "jh3y",
+            "repo": "whirl",
+            "stars": 1835,
+            "topics": [
+              "animation",
+              "css",
+              "css-loading-animations",
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "loader",
+              "loading",
+              "loading-animation",
+              "loading-animations",
+              "loading-bar",
+              "loading-indicator",
+              "loading-screen",
+              "loading-spinner",
+              "loading-spinners",
+              "progress",
+              "pseudo-elements",
+              "spinner",
+              "spinners",
+              "whirl"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
           "title": "Motion-ui",
           "description": "The powerful Sass library for creating CSS transitions and animations.",
           "children": [],
@@ -732,6 +1096,75 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Three.js",
+          "description": "JavaScript 3D library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "JavaScript 3D Library.",
+            "homepage": "https://threejs.org/",
+            "id": 576201,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-21T12:37:16Z",
+            "open_issues": 387,
+            "owner": "mrdoob",
+            "repo": "three.js",
+            "stars": 115709,
+            "topics": [
+              "3d",
+              "augmented-reality",
+              "canvas",
+              "html5",
+              "javascript",
+              "svg",
+              "virtual-reality",
+              "webaudio",
+              "webgl",
+              "webgl2",
+              "webgpu",
+              "webxr"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PixiJS",
+          "description": "Fast 2D WebGL renderer for interactive graphics and animation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+            "homepage": "http://pixijs.com",
+            "id": 7741856,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-17T07:28:48Z",
+            "open_issues": 344,
+            "owner": "pixijs",
+            "repo": "pixijs",
+            "stars": 48197,
+            "topics": [
+              "canvas",
+              "canvas2d",
+              "data-visualization",
+              "game",
+              "glsl",
+              "javascript",
+              "pixi",
+              "pixijs",
+              "renderer",
+              "rendering",
+              "rendering-2d-graphics",
+              "rendering-engine",
+              "webgl"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
           "title": "Fabric.js",
           "description": "JavaScript canvas library with animation support.",
           "children": [],
@@ -746,10 +1179,71 @@
             "open_issues": 468,
             "owner": "fabricjs",
             "repo": "fabric.js",
-            "stars": 31449,
+            "stars": 31453,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
+        },
+        {
+          "node_type": "item",
+          "title": "p5.js",
+          "description": "Creative coding library for drawing and animation on canvas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org",
+            "homepage": "http://p5js.org/",
+            "id": 8424040,
+            "language": "JavaScript",
+            "license": "LGPL-2.1",
+            "last_commit": "2026-09-21T10:56:54Z",
+            "open_issues": 525,
+            "owner": "processing",
+            "repo": "p5.js",
+            "stars": 24016,
+            "topics": [
+              "art",
+              "creative-coding",
+              "design",
+              "education",
+              "graphics",
+              "html",
+              "javascript",
+              "learning",
+              "p5js",
+              "processing",
+              "sound"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Matter.js",
+          "description": "A 2D rigid body physics engine for the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "a 2D rigid body physics engine for the web ▲● ■",
+            "homepage": null,
+            "id": 16986405,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2024-08-17T14:14:36Z",
+            "open_issues": 278,
+            "owner": "liabru",
+            "repo": "matter-js",
+            "stars": 18419,
+            "topics": [
+              "canvas",
+              "javascript",
+              "physics",
+              "physics-engine",
+              "rigid-bodies",
+              "web"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
         },
         {
           "node_type": "item",
@@ -788,7 +1282,7 @@
             "open_issues": 0,
             "owner": "konvajs",
             "repo": "konva",
-            "stars": 14806,
+            "stars": 14810,
             "topics": [
               "animation",
               "canvas",
@@ -808,6 +1302,63 @@
         },
         {
           "node_type": "item",
+          "title": "canvas-confetti",
+          "description": "Performant confetti animation in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🎉 performant confetti animation in the browser",
+            "homepage": "https://catdad.github.io/canvas-confetti/",
+            "id": 119001901,
+            "language": "JavaScript",
+            "license": "ISC",
+            "last_commit": "2025-10-25T05:17:21Z",
+            "open_issues": 41,
+            "owner": "catdad",
+            "repo": "canvas-confetti",
+            "stars": 12758,
+            "topics": [
+              "animation",
+              "burst",
+              "canvas",
+              "canvas-confetti",
+              "confetti",
+              "fireworks",
+              "hacktoberfest",
+              "jsdelivr",
+              "particles",
+              "snow"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Zdog",
+          "description": "Round, flat, designer-friendly pseudo-3D engine for canvas and SVG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Flat, round, designer-friendly pseudo-3D engine for canvas & SVG",
+            "homepage": "https://zzz.dog",
+            "id": 174164624,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2023-07-18T21:43:53Z",
+            "open_issues": 55,
+            "owner": "metafizzy",
+            "repo": "zdog",
+            "stars": 10664,
+            "topics": [
+              "3d",
+              "canvas",
+              "svg"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
           "title": "tsParticles",
           "description": "tsParticles is a lightweight typescript/javascript library for creating easily particles animations.",
           "children": [],
@@ -818,11 +1369,11 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T11:10:49Z",
+            "last_commit": "2026-09-20T19:29:57Z",
             "open_issues": 19,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8983,
+            "stars": 8985,
             "topics": [
               "2d",
               "angular",
@@ -864,7 +1415,7 @@
             "open_issues": 38,
             "owner": "jonobr1",
             "repo": "two.js",
-            "stars": 8661,
+            "stars": 8660,
             "topics": [
               "2d",
               "animation",
@@ -900,10 +1451,38 @@
             "open_issues": 221,
             "owner": "CreateJS",
             "repo": "EaselJS",
-            "stars": 8157,
+            "stars": 8156,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Vanta.js",
+          "description": "Animated 3D backgrounds for your website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Animated 3D backgrounds for your website",
+            "homepage": "http://vantajs.com/",
+            "id": 97560949,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2024-03-03T13:48:00Z",
+            "open_issues": 77,
+            "owner": "tengbao",
+            "repo": "vanta",
+            "stars": 7031,
+            "topics": [
+              "3d",
+              "animation",
+              "animations",
+              "background",
+              "three-js",
+              "threejs"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
         },
         {
           "node_type": "item",
@@ -921,7 +1500,7 @@
             "open_issues": 19,
             "owner": "williamngan",
             "repo": "pts",
-            "stars": 5346,
+            "stars": 5347,
             "topics": [
               "art",
               "canvas",
@@ -1063,7 +1642,7 @@
             "open_issues": 41,
             "owner": "jlmakes",
             "repo": "scrollreveal",
-            "stars": 22475,
+            "stars": 22476,
             "topics": [
               "animation",
               "css",
@@ -1076,6 +1655,37 @@
             ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Lenis",
+          "description": "Lightweight, accessible smooth scroll library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Smooth scroll as it should be",
+            "homepage": "https://lenis.dev",
+            "id": 461908156,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-18T10:04:18Z",
+            "open_issues": 25,
+            "owner": "darkroomengineering",
+            "repo": "lenis",
+            "stars": 15910,
+            "topics": [
+              "darkroom-engineering",
+              "performance",
+              "react",
+              "scroll",
+              "smooth",
+              "smooth-scroll",
+              "snap",
+              "vanilla",
+              "vue"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
         },
         {
           "node_type": "item",
@@ -1093,7 +1703,7 @@
             "open_issues": 8,
             "owner": "janpaepke",
             "repo": "ScrollMagic",
-            "stars": 14959,
+            "stars": 14958,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -1149,6 +1759,53 @@
         },
         {
           "node_type": "item",
+          "title": "Locomotive Scroll",
+          "description": "Detection of elements in viewport and smooth scrolling with parallax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🛤 Detection of elements in viewport & smooth scrolling with parallax.",
+            "homepage": "https://scroll.locomotive.ca",
+            "id": 70737507,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-06-30T19:36:53Z",
+            "open_issues": 25,
+            "owner": "locomotivemtl",
+            "repo": "locomotive-scroll",
+            "stars": 8862,
+            "topics": [
+              "in-view",
+              "javascript",
+              "parallax",
+              "smooth-scrolling"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Rellax",
+          "description": "Lightweight vanilla JavaScript parallax library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Lightweight, vanilla javascript parallax library",
+            "homepage": "https://dixonandmoe.com/rellax/",
+            "id": 52831797,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2024-08-24T00:53:35Z",
+            "open_issues": 77,
+            "owner": "dixonandmoe",
+            "repo": "rellax",
+            "stars": 7131,
+            "topics": []
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
           "title": "Sal",
           "description": "Performance focused, lightweight scroll animation library.",
           "children": [],
@@ -1167,6 +1824,67 @@
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Atropos",
+          "description": "Touch-friendly 3D parallax hover effects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Stunning touch-friendly 3D parallax hover effects",
+            "homepage": "https://atroposjs.com",
+            "id": 366434323,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-05-20T23:30:30Z",
+            "open_issues": 7,
+            "owner": "nolimits4web",
+            "repo": "atropos",
+            "stars": 3604,
+            "topics": [
+              "cards",
+              "effect",
+              "gallery",
+              "hover",
+              "javascript",
+              "parallax",
+              "portfolio",
+              "react",
+              "showcase",
+              "vue"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ScrollOut",
+          "description": "Scroll effects for reveal, parallax, and CSS variables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ScrollOut detects changes in scroll for reveal, parallax, and CSS Variable effects!",
+            "homepage": "https://scroll-out.github.io/",
+            "id": 100820770,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2024-01-14T16:21:12Z",
+            "open_issues": 22,
+            "owner": "scroll-out",
+            "repo": "scroll-out",
+            "stars": 1218,
+            "topics": [
+              "animation",
+              "css",
+              "css-classes",
+              "javascript",
+              "scroll-events",
+              "scrolling",
+              "transition"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
         },
         {
           "node_type": "item",
@@ -1229,6 +1947,64 @@
         },
         {
           "node_type": "item",
+          "title": "NumberFlow",
+          "description": "Animated number component for React, Vue, Svelte, and vanilla JS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An animated number component for React, Vue, Svelte, and TS/JS.",
+            "homepage": "https://number-flow.barvian.me",
+            "id": 829159509,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-20T13:51:56Z",
+            "open_issues": 19,
+            "owner": "barvian",
+            "repo": "number-flow",
+            "stars": 7706,
+            "topics": [
+              "accessible",
+              "animation",
+              "odometer",
+              "react",
+              "svelte",
+              "vue"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TypeIt",
+          "description": "The most versatile JavaScript typewriter effect library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The most versatile JavaScript typewriter effect library on the planet.",
+            "homepage": "https://typeitjs.com",
+            "id": 43328400,
+            "language": "JavaScript",
+            "license": "GPL-3.0",
+            "last_commit": "2025-04-04T15:06:36Z",
+            "open_issues": 23,
+            "owner": "alexmacarthur",
+            "repo": "typeit",
+            "stars": 3178,
+            "topics": [
+              "animation",
+              "javascript",
+              "javascript-library",
+              "text-animation",
+              "text-effects",
+              "typewriter",
+              "typewriter-effect",
+              "typography"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
           "title": "Blotter",
           "description": "A JavaScript API for drawing unconventional text effects on the web.",
           "children": [],
@@ -1259,6 +2035,62 @@
             ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TypewriterJS",
+          "description": "Native JavaScript plugin for typewriter text effects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple yet powerful native javascript plugin for a cool typewriter effect.",
+            "homepage": "https://www.npmjs.com/package/typewriter-effect",
+            "id": 82093328,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2025-04-29T09:46:30Z",
+            "open_issues": 94,
+            "owner": "tameemsafi",
+            "repo": "typewriterjs",
+            "stars": 2673,
+            "topics": [
+              "javascript",
+              "native-javascript-plugin",
+              "typewriter",
+              "typewriterjs"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Splitting",
+          "description": "Microlibrary to split text into words and characters for CSS animation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "JavaScript microlibrary to split an element by words, characters, children and more, populated with CSS variables!",
+            "homepage": "https://splitting.js.org",
+            "id": 116411425,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2024-06-19T03:08:08Z",
+            "open_issues": 46,
+            "owner": "shshaw",
+            "repo": "Splitting",
+            "stars": 1758,
+            "topics": [
+              "animation",
+              "character",
+              "css",
+              "css-vars",
+              "split",
+              "splitting",
+              "text",
+              "transition"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
         },
         {
           "node_type": "item",
@@ -1339,6 +2171,31 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Remotion",
+          "description": "Create videos programmatically with React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🎥      Make videos programmatically with React",
+            "homepage": "https://remotion.dev",
+            "id": 274495425,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-21T12:20:35Z",
+            "open_issues": 183,
+            "owner": "remotion-dev",
+            "repo": "remotion",
+            "stars": 59925,
+            "topics": [
+              "javascript",
+              "react",
+              "video"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
           "title": "Motion",
           "description": "Open source, production-ready animation and gesture library for React.",
           "children": [],
@@ -1353,7 +2210,7 @@
             "open_issues": 112,
             "owner": "motiondivision",
             "repo": "motion",
-            "stars": 33662,
+            "stars": 33673,
             "topics": [
               "animation",
               "animation-js",
@@ -1364,6 +2221,34 @@
             ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
+        },
+        {
+          "node_type": "item",
+          "title": "React Three Fiber",
+          "description": "A React renderer for Three.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🇨🇭 A React renderer for Three.js",
+            "homepage": "https://docs.pmnd.rs/react-three-fiber",
+            "id": 172521926,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-20T21:59:06Z",
+            "open_issues": 77,
+            "owner": "pmndrs",
+            "repo": "react-three-fiber",
+            "stars": 32407,
+            "topics": [
+              "3d",
+              "animation",
+              "fiber",
+              "react",
+              "renderer",
+              "threejs"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
         },
         {
           "node_type": "item",
@@ -1403,6 +2288,27 @@
         },
         {
           "node_type": "item",
+          "title": "React Transition Group",
+          "description": "Perform animations when a React component enters or leaves the DOM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An easy way to perform animations when a React component enters or leaves the DOM",
+            "homepage": "https://reactcommunity.org/react-transition-group/",
+            "id": 74297382,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-03-05T03:43:36Z",
+            "open_issues": 258,
+            "owner": "reactjs",
+            "repo": "react-transition-group",
+            "stars": 10218,
+            "topics": []
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
           "title": "React tsParticles",
           "description": "ReactJS wrapper for tsParticles",
           "children": [],
@@ -1413,11 +2319,11 @@
             "id": 238514517,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T11:10:49Z",
+            "last_commit": "2026-09-20T19:29:57Z",
             "open_issues": 19,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8983,
+            "stars": 8985,
             "topics": [
               "2d",
               "angular",
@@ -1442,13 +2348,95 @@
             ]
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
+        },
+        {
+          "node_type": "item",
+          "title": "React Flip Toolkit",
+          "description": "Lightweight magic-move library for configurable layout transitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A lightweight magic-move library for configurable layout transitions",
+            "homepage": null,
+            "id": 137294926,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2024-09-28T01:34:48Z",
+            "open_issues": 60,
+            "owner": "aholachek",
+            "repo": "react-flip-toolkit",
+            "stars": 4187,
+            "topics": [
+              "animation-library",
+              "flip-animations",
+              "layout-animation",
+              "reactjs",
+              "scale-animation"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Rive React",
+          "description": "React runtime for interactive Rive animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "React runtime for Rive",
+            "homepage": "https://rive.app/docs/runtimes/react/react",
+            "id": 373845970,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-16T19:58:41Z",
+            "open_issues": 75,
+            "owner": "rive-app",
+            "repo": "rive-react",
+            "stars": 1159,
+            "topics": [
+              "animation",
+              "react"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Lottie React",
+          "description": "React component for rendering Lottie animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Lottie animations in React: one component for the easy path, the whole engine when you need control.",
+            "homepage": "https://lottiereact.com",
+            "id": 251413029,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-07T21:26:26Z",
+            "open_issues": 2,
+            "owner": "Gamote",
+            "repo": "lottie-react",
+            "stars": 968,
+            "topics": [
+              "after-effects",
+              "animation",
+              "lottie",
+              "lottie-react",
+              "lottie-web",
+              "react",
+              "react-component",
+              "react-hooks",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-09-21T12:53:14.327Z"
         }
       ],
       "title": "React"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T11:28:39.227Z",
+    "last_updated": "2026-09-21T12:53:14.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome web animation libraries, books, apps etc.",
@@ -1456,7 +2444,7 @@
       "id": 89600573,
       "language": "JavaScript",
       "license": "CC0-1.0",
-      "last_commit": "2023-07-12T12:52:20Z",
+      "last_commit": "2026-09-20T16:58:09Z",
       "open_issues": 9,
       "owner": "sergey-pimenov",
       "repo": "awesome-web-animation",
@@ -1471,7 +2459,7 @@
         "web-animation"
       ]
     },
-    "original_repository_sha": "2f3d02a7400d653e3b6e152adeeb99d215ff5d56",
+    "original_repository_sha": "c9522f97b32459f4f1cf0264ba51ae9fd8eca3b5",
     "enhanced_repository": "enhansome/enhansome-web-animation",
     "enhanced_repository_description": null,
     "title": "Awesome Web Animation with stars"
