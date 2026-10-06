@@ -61,7 +61,7 @@
             "open_issues": 268,
             "owner": "adobe-webplatform",
             "repo": "Snap.svg",
-            "stars": 14004,
+            "stars": 14005,
             "topics": [
               "javascript",
               "javascript-library",
@@ -88,7 +88,7 @@
             "open_issues": 0,
             "owner": "svgdotjs",
             "repo": "svg.js",
-            "stars": 11826,
+            "stars": 11827,
             "topics": [
               "animation",
               "javascript",
@@ -235,7 +235,7 @@
             "open_issues": 121,
             "owner": "juliangarnier",
             "repo": "anime",
-            "stars": 73380,
+            "stars": 73386,
             "topics": [
               "animation",
               "anime",
@@ -264,7 +264,7 @@
             "open_issues": 7,
             "owner": "greensock",
             "repo": "GSAP",
-            "stars": 28837,
+            "stars": 28841,
             "topics": [
               "animation",
               "gsap",
@@ -806,7 +806,7 @@
             "open_issues": 80,
             "owner": "animate-css",
             "repo": "animate.css",
-            "stars": 82852,
+            "stars": 82853,
             "topics": [
               "animation",
               "css",
@@ -946,7 +946,7 @@
             "id": 81895167,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T09:52:09Z",
+            "last_commit": "2026-10-06T12:32:04Z",
             "open_issues": 0,
             "owner": "css-doodle",
             "repo": "css-doodle",
@@ -1042,7 +1042,7 @@
             "open_issues": 34,
             "owner": "jh3y",
             "repo": "whirl",
-            "stars": 1835,
+            "stars": 1836,
             "topics": [
               "animation",
               "css",
@@ -1106,11 +1106,11 @@
             "id": 576201,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T09:55:04Z",
-            "open_issues": 389,
+            "last_commit": "2026-10-06T12:01:04Z",
+            "open_issues": 388,
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 116272,
+            "stars": 116277,
             "topics": [
               "3d",
               "augmented-reality",
@@ -1196,11 +1196,11 @@
             "id": 8424040,
             "language": "JavaScript",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-04T20:30:04Z",
-            "open_issues": 532,
+            "last_commit": "2026-10-06T11:52:30Z",
+            "open_issues": 530,
             "owner": "processing",
             "repo": "p5.js",
-            "stars": 24088,
+            "stars": 24089,
             "topics": [
               "art",
               "creative-coding",
@@ -1316,7 +1316,7 @@
             "open_issues": 42,
             "owner": "catdad",
             "repo": "canvas-confetti",
-            "stars": 12777,
+            "stars": 12778,
             "topics": [
               "animation",
               "burst",
@@ -1451,7 +1451,7 @@
             "open_issues": 221,
             "owner": "CreateJS",
             "repo": "EaselJS",
-            "stars": 8162,
+            "stars": 8163,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -1672,7 +1672,7 @@
             "open_issues": 27,
             "owner": "darkroomengineering",
             "repo": "lenis",
-            "stars": 16179,
+            "stars": 16180,
             "topics": [
               "darkroom-engineering",
               "performance",
@@ -1703,7 +1703,7 @@
             "open_issues": 0,
             "owner": "janpaepke",
             "repo": "ScrollMagic",
-            "stars": 14953,
+            "stars": 14954,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -1773,7 +1773,7 @@
             "open_issues": 26,
             "owner": "locomotivemtl",
             "repo": "locomotive-scroll",
-            "stars": 8868,
+            "stars": 8869,
             "topics": [
               "in-view",
               "javascript",
@@ -1961,7 +1961,7 @@
             "open_issues": 19,
             "owner": "barvian",
             "repo": "number-flow",
-            "stars": 7732,
+            "stars": 7731,
             "topics": [
               "accessible",
               "animation",
@@ -2181,11 +2181,11 @@
             "id": 274495425,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T10:24:15Z",
-            "open_issues": 233,
+            "last_commit": "2026-10-06T13:03:44Z",
+            "open_issues": 228,
             "owner": "remotion-dev",
             "repo": "remotion",
-            "stars": 62112,
+            "stars": 62133,
             "topics": [
               "javascript",
               "react",
@@ -2206,11 +2206,11 @@
             "id": 157846876,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:48:57Z",
-            "open_issues": 56,
+            "last_commit": "2026-10-06T12:59:57Z",
+            "open_issues": 58,
             "owner": "motiondivision",
             "repo": "motion",
-            "stars": 33844,
+            "stars": 33849,
             "topics": [
               "animation",
               "animation-js",
@@ -2238,7 +2238,7 @@
             "open_issues": 14,
             "owner": "pmndrs",
             "repo": "react-three-fiber",
-            "stars": 32756,
+            "stars": 32757,
             "topics": [
               "3d",
               "animation",
@@ -2266,7 +2266,7 @@
             "open_issues": 151,
             "owner": "gregberge",
             "repo": "svgr",
-            "stars": 11058,
+            "stars": 11059,
             "topics": [
               "inline-svg",
               "loader",
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:00:43.480Z",
+    "last_updated": "2026-10-06T13:21:51.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome web animation libraries, books, apps etc.",
