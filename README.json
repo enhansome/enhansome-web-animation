@@ -19,7 +19,7 @@
             "open_issues": 858,
             "owner": "airbnb",
             "repo": "lottie-web",
-            "stars": 32258,
+            "stars": 32261,
             "topics": []
           },
           "first_seen": "2026-09-21T12:53:14.327Z"
@@ -40,7 +40,7 @@
             "open_issues": 22,
             "owner": "maxwellito",
             "repo": "vivus",
-            "stars": 15480,
+            "stars": 15481,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -114,7 +114,7 @@
             "open_issues": 347,
             "owner": "DmitryBaranovskiy",
             "repo": "raphael",
-            "stars": 11259,
+            "stars": 11258,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -135,7 +135,7 @@
             "open_issues": 19,
             "owner": "veltman",
             "repo": "flubber",
-            "stars": 6940,
+            "stars": 6942,
             "topics": []
           },
           "first_seen": "2026-09-21T12:53:14.327Z"
@@ -235,7 +235,7 @@
             "open_issues": 124,
             "owner": "juliangarnier",
             "repo": "anime",
-            "stars": 73749,
+            "stars": 73757,
             "topics": [
               "animation",
               "anime",
@@ -264,7 +264,7 @@
             "open_issues": 7,
             "owner": "greensock",
             "repo": "GSAP",
-            "stars": 29565,
+            "stars": 29608,
             "topics": [
               "animation",
               "gsap",
@@ -380,7 +380,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-10T16:08:00Z",
-            "open_issues": 47,
+            "open_issues": 49,
             "owner": "formkit",
             "repo": "auto-animate",
             "stars": 13936,
@@ -410,7 +410,7 @@
             "open_issues": 141,
             "owner": "theatre-js",
             "repo": "theatre",
-            "stars": 12782,
+            "stars": 12784,
             "topics": [
               "animation",
               "devtools",
@@ -438,7 +438,7 @@
             "open_issues": 69,
             "owner": "kimmobrunfeldt",
             "repo": "progressbar.js",
-            "stars": 7849,
+            "stars": 7850,
             "topics": [
               "animation",
               "javascript",
@@ -463,7 +463,7 @@
             "open_issues": 0,
             "owner": "bendc",
             "repo": "animateplus",
-            "stars": 5947,
+            "stars": 5946,
             "topics": [
               "animation",
               "css",
@@ -491,7 +491,7 @@
             "open_issues": 35,
             "owner": "visionmedia",
             "repo": "move.js",
-            "stars": 4685,
+            "stars": 4684,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -607,7 +607,7 @@
             "open_issues": 6,
             "owner": "lvivski",
             "repo": "animatic",
-            "stars": 1381,
+            "stars": 1380,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -624,11 +624,11 @@
             "id": 288047403,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T08:12:47Z",
+            "last_commit": "2026-10-22T11:53:50Z",
             "open_issues": 57,
             "owner": "rive-app",
             "repo": "rive-wasm",
-            "stars": 1010,
+            "stars": 1011,
             "topics": []
           },
           "first_seen": "2026-09-21T12:53:14.327Z"
@@ -806,7 +806,7 @@
             "open_issues": 81,
             "owner": "animate-css",
             "repo": "animate.css",
-            "stars": 82903,
+            "stars": 82906,
             "topics": [
               "animation",
               "css",
@@ -832,7 +832,7 @@
             "open_issues": 42,
             "owner": "IanLunn",
             "repo": "Hover",
-            "stars": 29409,
+            "stars": 29407,
             "topics": [
               "css",
               "css-effects",
@@ -857,7 +857,7 @@
             "open_issues": 11,
             "owner": "tobiasahlin",
             "repo": "SpinKit",
-            "stars": 19316,
+            "stars": 19315,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -878,7 +878,7 @@
             "open_issues": 0,
             "owner": "miniMAC",
             "repo": "magic",
-            "stars": 8597,
+            "stars": 8596,
             "topics": [
               "animation",
               "css",
@@ -946,7 +946,7 @@
             "id": 81895167,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T01:37:16Z",
+            "last_commit": "2026-10-22T06:34:44Z",
             "open_issues": 0,
             "owner": "css-doodle",
             "repo": "css-doodle",
@@ -980,7 +980,7 @@
             "open_issues": 3,
             "owner": "elrumordelaluz",
             "repo": "csshake",
-            "stars": 4863,
+            "stars": 4862,
             "topics": [
               "animation",
               "css",
@@ -1106,11 +1106,11 @@
             "id": 576201,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T11:40:19Z",
-            "open_issues": 391,
+            "last_commit": "2026-10-22T11:52:29Z",
+            "open_issues": 390,
             "owner": "mrdoob",
             "repo": "three.js",
-            "stars": 116710,
+            "stars": 116758,
             "topics": [
               "3d",
               "augmented-reality",
@@ -1140,11 +1140,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T16:26:51Z",
-            "open_issues": 402,
+            "last_commit": "2026-10-22T10:46:10Z",
+            "open_issues": 409,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48440,
+            "stars": 48434,
             "topics": [
               "canvas",
               "canvas2d",
@@ -1175,11 +1175,11 @@
             "id": 712530,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T10:19:38Z",
-            "open_issues": 457,
+            "last_commit": "2026-10-22T06:11:37Z",
+            "open_issues": 458,
             "owner": "fabricjs",
             "repo": "fabric.js",
-            "stars": 31510,
+            "stars": 31511,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -1197,10 +1197,10 @@
             "language": "JavaScript",
             "license": "LGPL-2.1",
             "last_commit": "2026-10-21T07:12:37Z",
-            "open_issues": 541,
+            "open_issues": 546,
             "owner": "processing",
             "repo": "p5.js",
-            "stars": 24153,
+            "stars": 24158,
             "topics": [
               "art",
               "creative-coding",
@@ -1233,7 +1233,7 @@
             "open_issues": 279,
             "owner": "liabru",
             "repo": "matter-js",
-            "stars": 18485,
+            "stars": 18487,
             "topics": [
               "canvas",
               "javascript",
@@ -1257,11 +1257,11 @@
             "id": 1338813,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T11:23:11Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-22T11:56:48Z",
+            "open_issues": 27,
             "owner": "paperjs",
             "repo": "paper.js",
-            "stars": 15093,
+            "stars": 15096,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -1279,10 +1279,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-15T00:14:08Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "konvajs",
             "repo": "konva",
-            "stars": 14885,
+            "stars": 14888,
             "topics": [
               "animation",
               "canvas",
@@ -1316,7 +1316,7 @@
             "open_issues": 44,
             "owner": "catdad",
             "repo": "canvas-confetti",
-            "stars": 12825,
+            "stars": 12827,
             "topics": [
               "animation",
               "burst",
@@ -1348,7 +1348,7 @@
             "open_issues": 55,
             "owner": "metafizzy",
             "repo": "zdog",
-            "stars": 10674,
+            "stars": 10676,
             "topics": [
               "3d",
               "canvas",
@@ -1373,7 +1373,7 @@
             "open_issues": 26,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8997,
+            "stars": 8994,
             "topics": [
               "2d",
               "angular",
@@ -1411,8 +1411,8 @@
             "id": 5694937,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T19:04:36Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-21T17:18:03Z",
+            "open_issues": 35,
             "owner": "jonobr1",
             "repo": "two.js",
             "stars": 8672,
@@ -1472,7 +1472,7 @@
             "open_issues": 77,
             "owner": "tengbao",
             "repo": "vanta",
-            "stars": 7253,
+            "stars": 7258,
             "topics": [
               "3d",
               "animation",
@@ -1621,7 +1621,7 @@
             "open_issues": 375,
             "owner": "michalsnik",
             "repo": "aos",
-            "stars": 28052,
+            "stars": 28051,
             "topics": []
           },
           "first_seen": "2026-08-28T18:45:26.457Z"
@@ -1642,7 +1642,7 @@
             "open_issues": 41,
             "owner": "jlmakes",
             "repo": "scrollreveal",
-            "stars": 22472,
+            "stars": 22468,
             "topics": [
               "animation",
               "css",
@@ -1672,7 +1672,7 @@
             "open_issues": 31,
             "owner": "darkroomengineering",
             "repo": "lenis",
-            "stars": 16763,
+            "stars": 16793,
             "topics": [
               "darkroom-engineering",
               "performance",
@@ -1699,8 +1699,8 @@
             "id": 13030144,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T07:29:43Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-22T10:19:50Z",
+            "open_issues": 2,
             "owner": "janpaepke",
             "repo": "ScrollMagic",
             "stars": 14952,
@@ -1724,7 +1724,7 @@
             "open_issues": 20,
             "owner": "alexfoxy",
             "repo": "lax.js",
-            "stars": 10463,
+            "stars": 10462,
             "topics": [
               "animation",
               "css",
@@ -1773,7 +1773,7 @@
             "open_issues": 27,
             "owner": "locomotivemtl",
             "repo": "locomotive-scroll",
-            "stars": 8882,
+            "stars": 8883,
             "topics": [
               "in-view",
               "javascript",
@@ -1799,7 +1799,7 @@
             "open_issues": 77,
             "owner": "dixonandmoe",
             "repo": "rellax",
-            "stars": 7125,
+            "stars": 7124,
             "topics": []
           },
           "first_seen": "2026-09-21T12:53:14.327Z"
@@ -1961,7 +1961,7 @@
             "open_issues": 18,
             "owner": "barvian",
             "repo": "number-flow",
-            "stars": 7757,
+            "stars": 7760,
             "topics": [
               "accessible",
               "animation",
@@ -2048,8 +2048,8 @@
             "id": 82093328,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2025-04-29T09:46:30Z",
-            "open_issues": 95,
+            "last_commit": "2026-10-22T09:39:25Z",
+            "open_issues": 94,
             "owner": "tameemsafi",
             "repo": "typewriterjs",
             "stars": 2665,
@@ -2181,11 +2181,11 @@
             "id": 274495425,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T11:48:56Z",
-            "open_issues": 181,
+            "last_commit": "2026-10-22T11:53:53Z",
+            "open_issues": 186,
             "owner": "remotion-dev",
             "repo": "remotion",
-            "stars": 65861,
+            "stars": 66225,
             "topics": [
               "javascript",
               "react",
@@ -2206,11 +2206,11 @@
             "id": 157846876,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T05:58:52Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-22T11:53:45Z",
+            "open_issues": 30,
             "owner": "motiondivision",
             "repo": "motion",
-            "stars": 34408,
+            "stars": 34434,
             "topics": [
               "animation",
               "animation-js",
@@ -2234,11 +2234,11 @@
             "id": 172521926,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T01:54:18Z",
+            "last_commit": "2026-10-21T15:24:39Z",
             "open_issues": 13,
             "owner": "pmndrs",
             "repo": "react-three-fiber",
-            "stars": 33125,
+            "stars": 33160,
             "topics": [
               "3d",
               "animation",
@@ -2266,7 +2266,7 @@
             "open_issues": 151,
             "owner": "gregberge",
             "repo": "svgr",
-            "stars": 11058,
+            "stars": 11057,
             "topics": [
               "inline-svg",
               "loader",
@@ -2323,7 +2323,7 @@
             "open_issues": 26,
             "owner": "tsparticles",
             "repo": "tsparticles",
-            "stars": 8997,
+            "stars": 8994,
             "topics": [
               "2d",
               "angular",
@@ -2392,7 +2392,7 @@
             "open_issues": 75,
             "owner": "rive-app",
             "repo": "rive-react",
-            "stars": 1174,
+            "stars": 1175,
             "topics": [
               "animation",
               "react"
@@ -2436,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T11:54:49.393Z",
+    "last_updated": "2026-10-22T11:57:28.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome web animation libraries, books, apps etc.",
